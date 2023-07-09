@@ -1,0 +1,173 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+Kodn8?FV03	Cloze+	FAA Instrument Rating	"Required Inspections
+<ul>
+<li>A - {{c1::Annual}}</li>
+<li>1 - {{c2::100 hour}}</li>
+<li>T - {{c3::Transponder}}</li>
+<li>A - {{c4::Altimeter}}</li>
+<li>P - {{c5::Pitot-static}}</li>
+<li>E - {{c6::ELT}}</li><li>{{c7::50-hour oil change::for trainer aircraft}}</li><li>{{c8::Preflight}}</li>
+</ul>"		
+M+Jy89&tN!	Cloze+	FAA Instrument Rating	The transponder must be inspected every {{c1::24 calendar months}}.		
+kh^k.iphGA	Cloze+	FAA Instrument Rating	The altimeter must be inspected every {{c1::24 calendar months}}.		
+q8_*:[gI!$	Cloze+	FAA Instrument Rating	The pitot-static system must be inspected every {{c1::24 calendar months}}.		
+s/].uhH1]]	Cloze+	FAA Instrument Rating	The ELT must be inspected every {{c1::12 calendar months}}.		
+"Po[x#$PcK!"	Cloze+	FAA Instrument Rating	The two parts of the ELT that must be inspected are the {{c1::antenna}} and the {{c2::battery}}.		
+dV>BC}|ed/	Cloze+	FAA Instrument Rating	FAR Part {{c1::61}} covers {{c2::Certification of Pilots and Instructors}}		
+xu$$Ke7AZ	Cloze+	FAA Instrument Rating	FAR Part {{c1::91}} covers {{c2::General Operating}} and {{c3::Flight Rules}}		
+o+{zSA4IAP	Cloze+	FAA Instrument Rating	An instrument rating is required<div><br /></div><div>1. {{c1::Any flight conducted under IFR}}</div><div>2.&nbsp;{{c2::Weather below VFR minimums in controlled airspace}}</div><div>3.&nbsp;{{c3::Class A}}</div><div>4.&nbsp;{{c4::Special VFR at night}}</div>		
+hv|R;M@@sK	Cloze+	FAA Instrument Rating	Airworthiness Required Documents<div><br /></div><div>A -&nbsp;{{c1::Airworthiness Certificate}}</div><div>R -&nbsp;{{c2::Registration Certificate}}</div><div>R -&nbsp;{{c3::Radio Station License}}</div><div>O -&nbsp;{{c4::Operating Limitations}}</div><div>W -&nbsp;{{c5::Weight &amp; Balance}}</div>		
+K~Y6j&nGCU	Cloze+	FAA Instrument Rating	FAR&nbsp;{{c1::91.205}} covers&nbsp;{{c2::Instruments and Equipment Required for IFR}}		
+"xLo=8u#GZu"	Cloze+	FAA Instrument Rating	Required IFR instruments and equipment:<div><br /></div><div>G -&nbsp;{{c1::Generator or alternator}}</div><div>R -&nbsp;{{c2::Rate of turn indicator or turn coordinator}}</div><div>A -&nbsp;{{c3::Altimeter, sensitive}}</div><div>B -&nbsp;{{c4::Ball, inclinometer}}</div><div>C -&nbsp;{{c5::Clock, digital display or sweep second hand}}</div><div>A -&nbsp;{{c6::Attitude indicator}}</div><div>R -&nbsp;{{c7::Radios, nav and comm}}</div><div>D -&nbsp;{{c8::Directional Gyro or Heading Indicator}}</div>		
+yH}tFp;D0F	Cloze+	FAA Instrument Rating	FAR Part&nbsp;{{c1::91.213}} covers {{c2::Inoperative Instruments and Equipment}}&nbsp;		
+x@`TPT~IQ^	Cloze+	FAA Instrument Rating	Options for handling inoperative instruments and equipment:<div><br /></div><div>1.&nbsp;{{c1::Minimum Equipment List (MEL) permits equipment to be inop}}</div><div>2.&nbsp;{{c2::Inop sticker and deactivate}}</div><div>3. {{c3::Inop sticker and remove}}</div><div>4.&nbsp;{{c4::Ferry permit from FSDO}}</div>		
+gp>dEeuO2d	Cloze+	FAA Instrument Rating	MEL stands for&nbsp;{{c1::Minimum Equipment List}}		
+eKzv|apOv*	Cloze+	FAA Instrument Rating	The MEL defines items that may be {{c1::inoperative}} while maintaining airworthiness.		
+kjz*{f(Z<O	Cloze+	FAA Instrument Rating	{{c1::Mechanic}} is the best resource for deactivating inoperative equipment		
+zL4mNvL,nd	Cloze+	FAA Instrument Rating	Removing inoperative equipment impacts {{c1::Weight &amp; Balance}}		
+o7b^KymI|9	Cloze+	FAA Instrument Rating	{{c1::BKN}} layer means {{c2::Broken}}: {{c3::5 to 7}} oktas		
+AtWOuG2*!Z	Cloze+	FAA Instrument Rating	{{c1::OVC}} cloud layer means {{c2::Overcast}}: {{c3::8}} oktas		
+I}9;]<b^g]	Cloze+	FAA Instrument Rating	{{c1::SCT}} cloud layer means {{c2::Scattered}}: {{c3::3 to 4}} oktas		
+oQ{s,]V2w[	Cloze+	FAA Instrument Rating	{{c1::FEW}} cloud layer means Few: {{c2::1 to 2}} oktas		
+yovl}7b<oN	Cloze+	FAA Instrument Rating	{{c1::CLR}} indicates {{c2::no clouds below 12,000}} and that a station is at least {{c3::partly automated}}		
+xMkQ{$rCJ,	Cloze+	FAA Instrument Rating	{{c1::SKC}} means {{c2::no clouds}} or {{c3::sky clear}} and in North America indicates a {{c4::human-generated report}}		
+2evDJvg@4	Cloze+	FAA Instrument Rating	In a METAR, {{c1::-}} indicates {{c2::light intensity}}		
+GuVz=G`r%H	Cloze+	FAA Instrument Rating	In a METAR, {{c1::+}} indicates {{c2::heavy intensity}}		
+d8yh+z6wn?	Cloze+	FAA Instrument Rating	In a METAR,&nbsp;{{c1::RA}} indicates {{c2::rain}}		
+my&Y{l:I}f	Cloze+	FAA Instrument Rating	In a METAR, {{c1::SN}} indicates {{c2::snow}}		
+LTTD/h%}L3	Cloze+	FAA Instrument Rating	In a METAR, {{c1::GR}} indicates {{c2::hail}}		
+k&?%qm6f-_	Cloze+	FAA Instrument Rating	In a METAR, {{c1::FG}} indicates {{c2::fog}}		
+d@2-m1tZGd	Cloze+	FAA Instrument Rating	In a METAR, {{c1::BR}} indicates {{c2::mist}}		
+L_rkz_<ie4	Cloze+	FAA Instrument Rating	In a METAR, {{c1::TS}} indicates {{c2::thunderstorm}}		
+h[$t2suI0i	Cloze+	FAA Instrument Rating	In a METAR, {{c1::SH}} indicates {{c2::showers}}		
+gsB1p:~x9}	Cloze+	FAA Instrument Rating	In a METAR, {{c1::FZ}} indicates {{c2::freezing}}		
+wg/;Q3u!iE	Cloze+	FAA Instrument Rating	In a METAR, {{c1::GS}} indicates {{c2::small hail or snow pellets}}		
+L?>lVIfP@x	Cloze+	FAA Instrument Rating	In a METAR, {{c1::HZ}} indicates {{c2::haze}}		
+AmM+s5l-LR	Cloze+	FAA Instrument Rating	FAA's 3P model (similar to DECIDE):<div><br /></div><div>P -&nbsp;{{c1::Perceive}}</div><div>P -&nbsp;{{c2::Process}}</div><div>P -&nbsp;{{c3::Perform}}</div>		
+zIVw[7$,Kg	Cloze+	FAA Instrument Rating	Required Day VFR instruments and equipment:<div><br /></div><div>A - {{c1::Airspeed Indicator}}</div><div>T - {{c2::Tachometer for each engine}}</div><div>O - {{c3::Oil pressure gauge for each engine}}</div><div>M - {{c4::Manifold pressure gauge for each engine}}</div><div>A - {{c5::Altimeter}}</div><div>T - {{c6::Temperature gauge for each liquid cooled engine}}</div><div>O - {{c7::Oil temperature gauge for each air cooled engine}}</div><div>F - {{c8::Fuel gauge}}</div><div>L - {{c9::Landing gear position indicator}}</div><div>A - {{c10::Anticollision lights}}</div><div>M -&nbsp;{{c11::Magnetic compass}}</div><div>E -&nbsp;{{c12::ELT}}</div><div>S -&nbsp;{{c13::Safety belts}}</div>		
+JiGDU!-rHA	Cloze+	FAA Instrument Rating	Night VFR required equipment<div><br /></div><div>F -&nbsp;{{c1::Fuses, one complete spare set}}<div>L - {{c2::Landing light, flying for hire}}</div><div>A - {{c3::Anticollision lights}}</div><div>P - {{c4::Position lights}}</div><div>S - {{c5::Source of electricity (alternator, generator)}}</div></div>		
+E.^8:^{5tI	Cloze+	FAA Instrument Rating	Four hydraulic systems on C172<div><br /></div><div>1 and 2. {{c1::Independent brake lines}}</div><div>3. {{c2::Oleo strut}}</div><div>4. {{c3::Shimmy damper}}</div>		
+M52+GGu>q!	Cloze+	FAA Instrument Rating	The engine model in the Redstone C172s is {{c1::Lycoming IO-360}} and rated at {{c2::180 HP}}.		
+k_qun6T`U5	Cloze+	FAA Instrument Rating	In IO-360, the I stands for {{c1::Injected}} and the O for {{c2::Opposing}}		
+c%fZCe%/{@	Cloze+	FAA Instrument Rating	The fuel system in the C172 is fed by {{c1::gravity}}		
+gvey%Dj2Ip	Cloze+	FAA Instrument Rating	Starting at the tanks, fuel in a C172 flows through the following sequence.<div><br /></div><div>{{c1::Fuel selector valve}}</div><div>{{c2::Strainer}}</div><div>{{c3::Electric pump}}</div><div>{{c4::Engine-driven pump}}</div><div>{{c5::Carburetor}}</div><div>{{c6::Spider}}</div><div>{{c7::Cylinders}}</div>		
+i(JD>cHtvq	Cloze+	FAA Instrument Rating	Pitch instruments are<div><br /></div><div>{{c1::Airspeed indicator}}</div><div>{{c2::Attitude indicator}}</div><div>{{c3::Altimeter}}</div><div>{{c4::VSI}}</div>		
+wA;=z9LA9O	Cloze+	FAA Instrument Rating	Bank instruments are<div><br /></div><div>{{c1::Attitude indicator}}</div><div>{{c2::Directional gyro}}</div><div>{{c3::Turn coordinator}}</div>		
+BO?LIvsqnh	Cloze+	FAA Instrument Rating	WAAS stands for {{c1::Wide Area Augmentation System}}		
+n<VQNvL~sS	Cloze+	FAA Instrument Rating	RAIM stands for {{c1::Receiver Autonomous Integrity Monitoring}}		
+h~YWMRO&5a	Cloze+	FAA Instrument Rating	LPV stands for {{c1::Localizer Performance with Vertical Guidance}}		
+l%}t?k4Yx0	Cloze+	FAA Instrument Rating	Elements of a position report:<div><br /></div><div>I - {{c1::Identifier}}</div><div>P - {{c2::Position}}</div><div>T - {{c3::Time}}</div><div>A - {{c4::Altitude}}</div><div>E - {{c5::ETA and name of next fix}}</div><div>N - {{c6::Name only of second next fix}}</div>		
+h2XaM^)cv6	Cloze+	FAA Instrument Rating	Required IFR reports to ATC when not in radar contact:<div><br /></div><div>1. {{c1::Revised ETA when off by more than 3 minutes}}</div><div>2. {{c2::OM inbound on a precision approach}}</div><div>3. {{c3::FAF inbound on a non-precision approach}}</div>		
+n7g2<K]]zb	Cloze+	FAA Instrument Rating	On lost communications in VMC, the pilot must {{c1::remain VMC}} and {{c2::land as soon as practicable}}		
+D$&o5qD45+	Cloze+	FAA Instrument Rating	On a ILS approach where the Attitude Indicator fails, the pilot must immediately {{c1::report the failure to ATC}} and, if cleared to continue, minimums that will apply are {{c2::localizer only}}.		
+otbCs=)zg$	Cloze+	FAA Instrument Rating	"Procedure turn not required when<div><br /></div><div>1. {{c1::No PT}} on the initial segment</div><div>2.&nbsp;Receiving&nbsp;{{c2::radar vectors}}</div><div>3.&nbsp;Timed&nbsp;{{c3::approach from a holding fix}}</div><div>4.&nbsp;ATC clears&nbsp;{{c4::""straight in"" approach}}</div><div>5. {{c5::PT barb}} absent from plan view</div>"		
+DqAtOwq[dn	Cloze+	FAA Instrument Rating	Requirements to descend below DH or MDA:<div><br /></div><div>1. {{c1::At least prescribed flight visibility}}</div><div>2. {{c2::In position to land in TDZ using normal maneuvers and rate of descent}}</div><div>3. {{c3::Runway environment in sight}}</div>		
+u5$*Sh,l>8	Cloze+	FAA Instrument Rating	VDP stands for {{c1::Visual Descent Point}} and is the point from which to begin {{c2::normal descent}} and land in the {{c3::first third of the runway}}.		
+lpY@xp+VAw	Cloze+	FAA Instrument Rating	Inverse T in a triangle means {{c1::non-standard takeoff minimums}} and {{c2::ODPs}}		
+"u<_c#?%.ov"	Cloze+	FAA Instrument Rating	Mandatory IFR Reports<div><br /></div><div>M -&nbsp;{{c1::Missed Approach}}</div><div>A - {{c2::Airspeed changes}} greater than 10kts or 5%</div><div>R - {{c3::Reaching a holding fix}}, time and altitude</div><div>V - {{c4::VFR}} on top</div><div>E - {{c5::ETA}} change</div><div>L - {{c6::Leaving a holding fix}}</div><div>O - {{c7::Outer Marker}} inbound</div><div>U - {{c8::Unforecast weather}}</div><div>S - {{c9::Safety of flight information}}</div><div><br /></div><div>V - {{c10::Vacating}} previously {{c15::assigned altitude}}</div><div>F - {{c11::Final Approach Fix}} {{c16::inbound}}</div><div>R - {{c12::Radio navigation failure}}</div><div><br /></div><div>C - {{c13::Compulsory}} {{c17::reporting points}}</div><div>500 - {{c14::Unable to climb or descend 500 fpm}}</div>		
+nil/eTB]b,	Cloze+	FAA Instrument Rating	When may the pilot descend below minimums and land?<div><br /></div><div>1. {{c1::Flight visibility at or above published minimums}}</div><div>2. {{c2::Runway environment in sight}}</div><div>3. {{c3::In position to land using normal maneuvers and descent rate}}</div>		
+"wW|$#-1|&x"	Cloze+	FAA Instrument Rating	For holds, the direct entry sector covers {{c1::180}} degrees. The teardrop entry sector covers {{c2::70}} degrees. The parallel entry sector covers {{c3::110}} degrees.		
+DtEehxO$=_	Cloze+	FAA Instrument Rating	Standard hold turns are to the {{c1::right}}.		
+"Q_#bD@U|s["	Cloze+	FAA Instrument Rating	Nose-low unusual attitude recovery:<div><br /></div><div>1. {{c1::Pull power}}</div><div>2. {{c2::Wings level}}</div><div>3. {{c3::Elevator back pressure}}</div>		
+d|$BRN*rG6	Cloze+	FAA Instrument Rating	Nose-high unusual attitude recovery:<div><br /></div><div>1. {{c1::Push power}}</div><div>2. {{c2::Forward elevator pressure}}</div><div>3. {{c3::Wings level}}</div>		
+s}=EaM<&ap	Cloze+	FAA Instrument Rating	Pitch attitude is approximately level when the airspeed and altimeter needles {{c1::stop their movement}} and the VSI {{c2::reverses direction}}.		
+p>]Z}SneL~	Cloze+	FAA Instrument Rating	Bank attitude is approximately level when turn coordinator wings are {{c1::level}}.		
+zmWPgvhOU^	Cloze+	FAA Instrument Rating	Protected area radius around the airport for Category A approach (less than {{c1::91 knots}}) is {{c2::1.3 miles}} and Category B ({{c3::less than 121 knots}}) is {{c4::1.5 miles}}.		
+c*E;TGX,,r	Cloze+	FAA Instrument Rating	The pilot may cancel IFR in {{c1::VMC}} and outside {{c2::Class A airspace}}.		
+i~ZD*s2_kB	Cloze+	FAA Instrument Rating	A SIGMET ({{c1::Significant Meteorological Information}}) has two types: {{c2::convective}} and {{c3::non-convective}}.		
+"kdK#eO[%TD"	Cloze+	FAA Instrument Rating	Criteria for issue of a non-convective SIGMET:<div><br /></div><div>1. {{c1::Severe or greater turbulence over a 3,000 square mile area}}</div><div>2. {{c2::Severe or greater icing over a 3,000 square mile area}}</div><div>3. IMC over a 3,000 square mile area due to {{c3::dust}}, {{c4::sand}}, or {{c5::volcanic ash}}</div>		
+CWZXuyxf^|	Cloze+	FAA Instrument Rating	A convective SIGMET is valid for {{c1::2 hours}}.		
+sCD.1gv0Wm	Cloze+	FAA Instrument Rating	Convective SIGMETs are issued for an area of<div><br /></div><div>- {{c1::embedded}}&nbsp;thunderstorms</div><div>- a line {{c2:: of thunderstorms}}</div><div>-&nbsp;thunderstorms affecting&nbsp;{{c3::40+%}} of a {{c4::3,000+ square mile area}}</div><div>-&nbsp;surface winds at least&nbsp;{{c5::50 knots}}</div><div>- {{c6::hail}} greater than {{c7::3/4 inch}}</div><div>- {{c8::tornadoes}}</div>		
+cpN^*$MJv)	Cloze+	FAA Instrument Rating	An AIRMET or {{c1::Airmen's Meteorological Information}} describes {{c2::current or forecast}} {{c3::weather phenomena}} that may affect {{c4::aircraft safety}}.		
+r{[hzHXSSw	Cloze+	FAA Instrument Rating	Three types of AIRMETs are<div><br /></div><div>1. {{c1::Sierra}}</div><div>2. {{c2::Tango}}</div><div>3. {{c3::Zulu}}</div>		
+oy8y$W?)5F	Cloze+	FAA Instrument Rating	AIRMET Sierra covers {{c1::mountain obscuration}} or {{c2::IFR}}: ceilings less than {{c3::1,000 feet}} or visibility less than {{c4::3 miles}}.		
+dlyR3ZOarA	Cloze+	FAA Instrument Rating	AIRMET Tango covers {{c1::turbulence}}: {{c2::light to moderate}} in severity or sustained surface winds at least {{c3::30 knots}}.		
+q|WLYcge!F	Cloze+	FAA Instrument Rating	AIRMET Zulu covers {{c1::icing}}: {{c2::light to moderate}} in severity and {{c3::freezing levels}}.		
+QdK.Res0d]	Cloze+	FAA Instrument Rating	To issue an AIRMET, conditions must be {{c1::widespread}}, defined as covering at least {{c2::3,000 square miles}}.		
+AlfJigM.+6	Cloze+	FAA Instrument Rating	5 Ts at a holding fix:<div><br /></div><div>1. {{c1::Time}}</div><div>2. {{c2::Turn}}</div><div>3. {{c3::Twist}}</div><div>4. {{c4::Throttle}}</div><div>5. {{c5::Talk}}</div>		
+czH+2QPJ5m	Cloze+	FAA Instrument Rating	DECIDE model steps:<div><br /></div><div>D - {{c1::Detect}}</div><div>E - {{c2::Estimate}}</div><div>C - {{c3::Choose}}</div><div>I - {{c4::Identify}}</div><div>D - {{c5::Do}}</div><div>E - {{c6::Evaluate}}</div>		
+b}y(EMo6ve	Cloze+	FAA Instrument Rating	Compass errors:<div><br /></div><div>D - {{c2::deviation}}</div><div>V - {{c1::variation}}</div><div>M - {{c3::magnetic dip}}</div><div>O -&nbsp;{{c6::oscillation}}</div><div>N - {{c5::north/south turning - UNOS}}</div><div>A - {{c4::acceleration - ANDS}}</div><div><br /></div>		
+P&%sA]$i>p	Cloze+	FAA Instrument Rating	Acceleration compass error is worst on {{c1::easterly or westerly}} headings.		
+N`f6R^-e$.	Cloze+	FAA Instrument Rating	Compass turning error is worst when turning to headings close to {{c1::north or south}}.		
+ymNek-WtNg	Cloze+	FAA Instrument Rating	On the profile view, the final approach segment for a non-precision approach is identified with a {{c1::Maltese cross}} and a {{c2::lightning bolt}} for a precision approach.		
+K=Tb?&=@X5	Cloze+	FAA Instrument Rating	A contact approach may be initiated by {{c1::the pilot}} only. The aircraft must have flight visibility of {{c2::1 mile}} and operate {{c3::clear of clouds}} with a reasonable {{c4::expectation of maintaining conditions}}. Reported ground visibility at the destination must be at least {{c5::1 SM}}.		
+ET[b29,4&O	Cloze+	FAA Instrument Rating	3 fundamental skills of instrument flying:<div><br /></div><div>1. {{c1::instrument cross-check}}</div><div>2. {{c2::instrument interpretation}}</div><div>3. {{c3::aircraft control}}</div>		
+F[3<K;PwGy	Cloze+	FAA Instrument Rating	The electrical system in a C172 is {{c1::28V}}, and the battery is {{c2::24V}}. The overage is for {{c3::charging the battery}}.		
+Jof{tuwWCD	Cloze+	FAA Instrument Rating	Pitot blocked; drain and static open:<div><br /></div><div>ASI {{c1::reads zero}}</div><div><br /></div><div>Altimeter {{c2::functions normally}}</div><div><br /></div><div>VSI {{c3::functions normally}}</div>		
+NUS<3<:;5J	Cloze+	FAA Instrument Rating	Blocked pitot and drain; open static:<div><br /></div><div>ASI&nbsp;reads&nbsp;{{c1::high in climb}}, {{c4::low in descent}}</div><div><br /></div><div>Altimeter {{c2::functions normally}}</div><div><br /></div><div>VSI {{c3::functions normally}}</div>		
+TH%Sa;EDN	Cloze+	FAA Instrument Rating	Blocked static; open pitot:<div><br /></div><div>ASI reads {{c1::low in climb}}, {{c4::high in descent}}</div><div><br /></div><div>Altimeter {{c2::freezes}}</div><div><br /></div><div>VSI {{c3::freezes}}</div>		
+eo`rCZr!Cm	Cloze+	FAA Instrument Rating	Using alternate static air:<div><br /></div><div>ASI {{c1::reads high}}</div><div><br /></div><div>Altimeter {{c2::reads high}}</div><div><br /></div><div>VSI {{c3::momentarily shows a climb}}</div>		
+Qm}^/3%/-d	Cloze+	FAA Instrument Rating	"""Six pack"" instruments:<div><br /></div><div>{{c1::Airspeed Indicator}}</div><div>{{c2::Attitude Indicator}}</div><div>{{c3::Altimeter}}</div><div>{{c4::Turn Coordinator}}</div><div>{{c5::Heading Indicator}}</div><div>{{c6::VSI}}</div><div><br /></div>"		
+gWR(WyX^.I	Cloze+	FAA Instrument Rating	Pitot-static instruments are<div><br /></div><div>{{c1::ASI}}</div><div>{{c2::Altimeter}}</div><div>{{c3::VSI}}</div>		
+lM;kH]^0c,	Cloze+	FAA Instrument Rating	Instrument connected to both pitot and static ports is the {{c1::ASI}}.		
+HvRN~2i~)`	Cloze+	FAA Instrument Rating	Instruments connected to static port only are the {{c1::altimeter}} and {{c2::VSI}}.		
+N371~X=+K9	Cloze+	FAA Instrument Rating	An expired GPS database may be used for {{c1::en route}} and {{c2::terminal}} operations, provided that the pilot-in-command verifies {{c3::the data are correct}}.		
+"L#LhCN;f^w"	Cloze+	FAA Instrument Rating	The logbook entry for a VOR check must include&nbsp;{{c1::date}},&nbsp;{{c2::place}},&nbsp;{{c3::bearing error}}, and&nbsp;{{c4::signature}}.		
+I4+G.|lK*^	Cloze+	FAA Instrument Rating	Personal documents required for flight:<div><br /></div><div>{{c1::Pilot certificate}}</div><div><br /></div><div>{{c2::Medical certificate}}</div><div><br /></div><div>{{c3::Authorized photo ID}}</div><div><br /></div><div>{{c4::Radio operator license (outside US)}}</div>		
+ASDV&l|FBW	Cloze+	FAA Instrument Rating	Preflight self-assessment<div><br /></div><div>I -&nbsp;{{c1::Illness}}</div><div>M -&nbsp;{{c2::Medication}}</div><div>S -&nbsp;{{c3::Stress}}</div><div>A -&nbsp;{{c4::Alcohol}}</div><div>F -&nbsp;{{c5::Fatigue}}</div><div>E -&nbsp;{{c6::Emotion}} or {{c7::Eating}}</div>		
+J1V^>)rHo{	Cloze+	FAA Instrument Rating	Risk Management &amp; Personal Minimums<div><br /></div><div>P -&nbsp;{{c1::Pilot}}</div><div>A -&nbsp;{{c2::Aircraft}}</div><div>V -&nbsp;{{c3::enVironment}}</div><div>E -&nbsp;{{c4::External pressure}}</div>		
+A<YQaOcjj7	Cloze+	FAA Instrument Rating	Instrument Currency<div><br /></div><div>Logged in the past&nbsp;{{c1::6 calendar months::time}} (6HITS):</div><div><br /></div><div>6 - {{c2::6 instrument approaches}}</div><div>H -&nbsp;{{c3::Holding procedures and tasks}}</div><div>I -&nbsp;{{c4::Intercept}} and ...</div><div>T -&nbsp;{{c5::Track courses}} through use of ...</div><div>S -&nbsp;{{c6::electronic navigation Systems}}</div>		
+u@HM>/,.=A	Cloze+	FAA Instrument Rating	If not current looking back {{c1::6 months}}, a pilot may log the requirements ({{c2::6HITS}}) with a {{c3::safety pilot}}, {{c4::instructor}}, or {{c5::pilot examiner}}.		
+z=r>fon@@*	Cloze+	FAA Instrument Rating	If not current looking back {{c1::12 calendar months}}, a pilot must pass an {{c2::Instrument Proficiency Check}} administered by a {{c3::CFII}} or {{c4::pilot examiner}}.		
+bEIV1(>keJ	Cloze+	FAA Instrument Rating	Carrying Passengers as PIC<div><br /></div><div>Day - {{c1::3}} takeoffs and landings in the past {{c2::90 days}} in the same class, category, and type</div><div><br /></div><div>Night - At periods between&nbsp;{{c3::1 hour after sunset}} and&nbsp;{{c4::1 hour before sunrise}}:&nbsp;{{c5::3}} takeoffs and landings to a&nbsp;{{c6::full stop}} in the last&nbsp;{{c7::90 days}}</div>		
+d,C-(GArGf	Cloze+	FAA Instrument Rating	IFR Crusing Altitude<div><br /></div><div>{{c2::Westerly}} -&nbsp;{{c1::Even}} thousands or FLs</div>		
+rA5GDT>G!-	Cloze+	FAA Instrument Rating	Basic IFR departure clearance items<div><br /></div><div>C -&nbsp;{{c1::Clearance limit}}</div><div>R -&nbsp;{{c2::Route}}</div><div>A -&nbsp;{{c3::Altitude}}</div><div>F -&nbsp;{{c4::Frequency}}</div><div>T -&nbsp;{{c5::Transponder code}}</div>		
+K2Pq4PWi&=	Cloze+	FAA Instrument Rating	Clearance Void Time<div><br /></div><div>Time at which a clearance is&nbsp;{{c1::void}} and after which the pilot&nbsp;{{c2::may not::may or may not}} takeoff. Must notify ATC within&nbsp;{{c3::30 minutes}} after the void time if did not depart.</div>		
+qRyUV+~YL<	Cloze+	FAA Instrument Rating	"""Hold for release"" - The pilot {{c1::may not::may or may not}} takeoff until released for IFR departure."		
+KHL%Zh22nn	Cloze+	FAA Instrument Rating	Release time: the earliest {{c1::time}} an aircraft may {{c2::depart}} under {{c3::IFR}}		
+GV6]]!cC8j	Cloze+	FAA Instrument Rating	Release time - the&nbsp;{{c1::earliest}} time the aircraft may {{c2::depart}} under {{c3::IFR}}		
+OG<P5duX>m	Cloze+	FAA Instrument Rating	"{{c1::Abbreviated}} {{c2::departure clearance}} - ""Cleared ... {{c3::as filed}} ..."""		
+hIB@YZuo92	Cloze+	FAA Instrument Rating	{{c1::Expect Departure Clearance Time}} ({{c2::EDCT}}) - A runway {{c3::release time}} at {{c4::busy}} airports. Aircraft are expected to depart no earlier and no later than {{c5::5 minutes}} from the EDCT.		
+"P3XK]*##5o"	Cloze+	FAA Instrument Rating	Holding pattern timing:<div><br /></div><div>At or below {{c1::14,000}} MSL -&nbsp;{{c2::1 minute}}</div><div><br /></div><div>Above {{c3::14,000}} MSL - {{c4::1.5 minutes}}</div>		
+DvXrbPTx!	Cloze+	FAA Instrument Rating	Max Holding Speeds<div><br /></div><div>Up to {{c1::6,000}} MSL -&nbsp;{{c2::200}} KIAS</div><div>Up to {{c3::14,000}} MSL - {{c4::230}} KIAS</div><div>Above {{c5::14,000}} MSL - {{c6::265}} KIAS</div>		
+B~OB[=ZFx5	Cloze+	FAA Instrument Rating	DA - {{c1::Decision Altitude}}<div><br /></div><div>DH - {{c2::Decision Height}}</div>		
+NV00?R~IyC	Cloze+	FAA Instrument Rating	MAA - {{c1::Max Authorized Altitude}}		
+L}A?TP{Dq1	Cloze+	FAA Instrument Rating	MCA - {{c1::Minimum Crossing Altitude}}		
+jjHx[aqY(_	Cloze+	FAA Instrument Rating	MDA -&nbsp;{{c1::Minimum Descent Altitude}}<div><br /></div><div>MDH -&nbsp;{{c2::Minimum Descent Height}}</div>		
+ot)gP&Fm?l	Cloze+	FAA Instrument Rating	MEA -&nbsp;{{c1::Minimum En route Altitude}}		
+P>QmU:~5*e	Cloze+	FAA Instrument Rating	MOCA -&nbsp;{{c1::Minimum Obstruction Clearance Altitude}}		
+wfW>Pc}><E	Cloze+	FAA Instrument Rating	MRA -&nbsp;{{c1::Minimum Reception Altitude}}		
+l-XulYLhS%	Cloze+	FAA Instrument Rating	MVA -&nbsp;{{c1::Minimum Vectoring Altitude}}		
+j4IbNaI;tN	Cloze+	FAA Instrument Rating	OROCA -&nbsp;{{c1::Off-Route Obstruction Clearance Altitude}}		
+JU(xg.njb)	Cloze+	FAA Instrument Rating	RVR in feet to Visibility in SM<div><br /></div><div>{{c1::1,600}} -&nbsp;{{c2::1/4}}</div><div>{{c3::2,400}} -&nbsp;{{c4::1/2}}</div><div>{{c5::3,200}} - {{c6::5/8}}</div><div>{{c7::4,000}} -&nbsp;{{c8::3/4}}</div><div>{{c9::4,500}} -&nbsp;{{c10::7/8}}</div><div>{{c11::5,000}} -&nbsp;{{c12::1}}</div><div>{{c13::6,000}} -&nbsp;{{c14::1-1/4}}</div>		
+i(VpG>_0,e	Cloze+	FAA Instrument Rating	Minimum IFR terrain clearance assures obstacle clearance within {{c1::4 NM}} of course.<div><br /></div><div>{{c2::1,000 AGL}} over&nbsp;{{c3::non-mountainous}} terrain</div><div><br /></div><div>{{c4::2,000 AGL}} over&nbsp;{{c5::mountainous}} terrain</div>		
+j}vbnI0P=C	Cloze+	FAA Instrument Rating	Lost Comms<div><br /></div><div>Altitude: Fly the {{c1::highest}} among</div><div>&nbsp; - M -&nbsp;{{c2::Minimum IFR altitude}}</div><div>&nbsp; - E -&nbsp;{{c3::Expected}}</div><div>&nbsp; - A -&nbsp;{{c4::Assigned}}</div><div><br /></div><div>Route: In descending order of preference</div><div>&nbsp; - A -&nbsp;{{c5::Assigned}}</div><div>&nbsp; - V - {{c6::Vectored}}</div><div>&nbsp; - E - {{c7::Expected}}</div><div>&nbsp; - F - {{c8::Filed}}</div>		
+"B#A8A(/U3Q"	Cloze+	FAA Instrument Rating	Leaving clearance limit under lost comms<div><br /></div><div>If clearance limit is a fix from which approach begins, start {{c1::descent}} and&nbsp;{{c2::approach}} as close as possible to the {{c3::EFC}}, else {{c4::ETA}}.</div><div><br /></div><div>Otherwise, at&nbsp;{{c5::EFC}} (else if none given {{c6::clearance limit}}), proceed to a fix from which an {{c7::approach begins}} and&nbsp;{{c8::start the approach}}.</div>		
+xb;F>zeig,	Cloze+	FAA Instrument Rating	Do not fly procedure turn when<div><br /></div><div>S -&nbsp;{{c1::Straight-in approach}}</div><div>H -&nbsp;{{c2::Holding in lieu of procedure turn}}</div><div>A -&nbsp;{{c3::Arc}}</div><div>R -&nbsp;{{c4::Radar vectored}} to {{c5::final approach course}}</div><div>P - {{c6::NoPT on chart}}</div><div>T -&nbsp;{{c7::Timed}} {{c10::approach}}</div><div>T - {{c8::Teardrop}} {{c9::course reversal}}</div>		
+"v!#<lzX_vB"	Cloze+	FAA Instrument Rating	Instrument approach types:<div><br /></div><div>{{c1::Precision}} ({{c2::lateral}} +&nbsp;{{c3::vertical}} course guidance)</div><div><br /></div><div>{{c5::Non-precision}} ({{c6::lateral}} course guidance only)</div><div><br /></div><div>{{c7::APV}} ({{c8::Approach with Vertical guidance}})</div><div>&nbsp; - Has&nbsp;{{c9::glide slope}} but does not meet&nbsp;{{c10::ICAO}} {{c11::precision}} approach standards.</div><div>&nbsp; - e.g.,&nbsp;{{c12::RNAV}},&nbsp;{{c13::LPV}}</div>		
+s(02_C-&)p	Cloze+	FAA Instrument Rating	Runway environment components<div><br /></div><div>{{c1::Approach light system}}</div><div>{{c2::Threshold or markings}}</div><div>{{c3::Threshold lights}}</div><div>{{c4::REIL - Runway End Indentifier Lights}}</div><div>{{c5::VASI - Visual Approach Slope Indicator}}</div><div>{{c6::Touchdown zone or markings}}</div><div>{{c7::Touchdown zone lights}}</div><div>{{c8::Runway or runway markings}}</div><div>{{c9::Runway lights}}</div>		
+L^vN(_72pr	Cloze+	FAA Instrument Rating	VOR deflection:<div><br /></div><div>{{c1::2 degrees}} per dot</div><div><br /></div><div>{{c2::10 degrees}} full-scale deflection</div><div><br /></div><div>Distance off course: {{c3::200 feet}} per dot per NM from station</div>		
+gX{@~?O6/s	Cloze+	FAA Instrument Rating	ILS Service Volume<div><br /></div><div>Localizer</div><div>&nbsp; - Width: Between&nbsp;{{c1::3-6 degrees}} -&nbsp;{{c2::700 feet}} wide at threshold. Usually&nbsp;{{c3::5}} degrees total width.</div><div>&nbsp; - Coverage:&nbsp;{{c4::35}} degrees to each side of centerline for the first&nbsp;{{c5::10 NM}} and&nbsp;{{c6::10}} degrees out to&nbsp;{{c7::18 NM}} up to&nbsp;{{c8::4,500 feet}}</div><div><br /></div><div>Glide slope</div><div>&nbsp; - Width:&nbsp;{{c9::1.4 degrees}}, full deflection&nbsp;{{c10::0.7 degrees}} either direction</div><div>&nbsp; - Range:&nbsp;{{c11::up to 10 NM}}</div><div>&nbsp; - Slope:&nbsp;{{c12::2.5}} to&nbsp;{{c13::3.5}} degrees</div>		
+tGqeG~]X(m	Cloze+	FAA Instrument Rating	ILS Marker Beacons<div><br /></div><div>{{c1::Outer Marker}} -&nbsp;{{c2::4-7 miles::distance}} - {{c3::blue::color}} -&nbsp;{{c4::[---]::Morse code}}</div><div><br /></div><div>{{c5::Middle Marker}} -&nbsp;{{c6::~3,500 feet::distance}} -&nbsp;{{c7::amber::color}} -&nbsp;{{c8::[.-.-]::Morse code}}</div><div><br /></div><div>{{c9::Inner Marker}} -&nbsp;{{c10::between MM and threshold}} -&nbsp;{{c11::white::color}} -&nbsp;{{c12::[...]::Morse code}}</div>		
+iU=Q^~3$hW	Cloze+	FAA Instrument Rating	Descent fpm for 3-degree glide slope<div><br /></div><div>{{c1::Ground speed}} ×&nbsp;{{c2::5}}</div>		
+"vi#+1gP>`D"	Cloze+	FAA Instrument Rating	How far out (in NM) to start 3° descent:<div><br /></div><div>{{c1::Altitude to lose}} divided by&nbsp;{{c2::300}}</div>		
+e>x~ZA8=<3	Cloze+	FAA Instrument Rating	Climb gradient (ft/NM) to fpm<div><br /></div><div>{{c1::gradient}} x {{c2::ground speed}} /&nbsp;{{c3::60}}</div>		
+Iw^V@@y`}@	Cloze+	FAA Instrument Rating	Static port blockage - ASI<div><br /></div><div>Shows&nbsp;{{c1::correct}} airspeed at&nbsp;{{c2::same altitude}} where&nbsp;{{c3::blockage occurred}}. At&nbsp;{{c4::higher}} altitudes, airspeed will indicate&nbsp;{{c5::lower}}. At lower altitudes, airspeed will indicate&nbsp;{{c6::higher}}.</div>		
+jkWuw4!{f%	Cloze+	FAA Instrument Rating	Static port blockage<div><br /></div><div>Altimeter will&nbsp;{{c1::freeze}} at the&nbsp;{{c2::altitude}} where&nbsp;{{c3::blockage occurred}}</div>		
+bg[ga^CGSF	Cloze+	FAA Instrument Rating	Static port blockage<div><br /></div><div>{{c1::VSI}}&nbsp;{{c2::freezes}} on&nbsp;{{c3::zero}}</div>		
+M~ywSnXu]d	Cloze+	FAA Instrument Rating	Pitot blockage<div><br /></div><div>The only instrument affected is the {{c1::ASI}}</div><div><br /></div><div>Ram air inlet {{c2::clogged}} and drain {{c3::open}} - airspeed indicates&nbsp;{{c4::zero}}</div><div><br /></div><div>Air inlet {{c5::clogged}} and drain hole&nbsp;{{c6::clogged}} - airspeed indicates&nbsp;{{c7::high in climb, low in descent}}</div>		
+O:crDs+u$G	Cloze+	FAA Instrument Rating	Gyroscopic instruments<div><br /></div><div>{{c1::Attitude Indicator}}</div><div>{{c2::Heading Indicator / Directional Gyro}}</div><div>{{c3::Turn coordinator}}</div>		
+"d3#W~AT@|."	Cloze+	FAA Instrument Rating	Thunderstorm lifecycle<div><br /></div><div>1. {{c1::Cumulus}}</div><div>2.&nbsp;{{c2::Mature}}</div><div>3. {{c3::Dissipating}}</div>		
+A1]Trd>MCJ	Cloze+	FAA Instrument Rating	Conditions for structural icing<div><br /></div><div>1.&nbsp;{{c1::Visible moisture}}</div><div>2.&nbsp;{{c2::Aircraft surface temperature below freezing}}</div>		
+G14l0v3EUk	Cloze+	FAA Instrument Rating	Types of hypoxia<div><br /></div><div>{{c1::Hypoxic}}</div><div>{{c2::Hypemic}}</div><div>{{c3::Histotoxic}}</div><div>{{c4::Stagnant}}</div>		
+qyjr_E2Ln5	Cloze+	FAA Instrument Rating	IFR Cruising Altitude<div><br /><div>{{c1::Easterly}} -&nbsp;{{c2::Odd}} thousands or FLs</div></div>		
+n+d/<z.zE8	Cloze+	FAA Instrument Rating	Blocked static but open pitot with aircraft climbing.<div><br /></div><div>ASI reads&nbsp;{{c1::lower than actual}}</div>		
+kl..@{+)fJ	Cloze+	FAA Instrument Rating	Blocked static but open pitot with aircraft descending.<div><br /></div><div>ASI reads&nbsp;{{c1::higher than actual}}</div>		
+DMF^)oTosB	Cloze+	FAA Instrument Rating	ILS OM Morse code: {{c1::dash-dash-dash}}		
+pLNLWev/oD	Cloze+	FAA Instrument Rating	ILS OM color: {{c1::blue}}		
+"GkYv@+XR#S"	Cloze+	FAA Instrument Rating	ILS MM Morse code: {{c1::.-.-}}		
+HHf3,CkLhw	Cloze+	FAA Instrument Rating	ILS MM Color: {{c1::amber}}		
+PzF06}Y6.l	Cloze+	FAA Instrument Rating	ILS IM Morse code: {{c1::dot-dot-dot}}		
+Mi=L&`sey~	Cloze+	FAA Instrument Rating	ILS IM Color: {{c1::white}}		
+M3-:u+;EYu	Cloze+	FAA Instrument Rating	For holds, the direct entry sector covers&nbsp;{{c1::180}} degrees.		
+n6ap}bch*/	Cloze+	FAA Instrument Rating	For holds, the teardrop entry sector covers {{c1::70}} degrees.		
+iEk0@GNP3h	Cloze+	FAA Instrument Rating	For holds, the parallel entry sector covers {{c1::110}} degrees.		
+BGLJP^9]D7	Cloze+	FAA Instrument Rating	{{c1::FYM}} AWOS frequency:&nbsp;{{c2::135.275}}		
+k=zhCN$tBS	Cloze+	FAA Instrument Rating	{{c1::FYM}} CTAF:&nbsp;{{c2::122.8}}		
+x<iGTGI,!j	Cloze+	FAA Instrument Rating	{{c1::MDQ}} AWOS frequency:&nbsp;{{c2::120.0}}		
+md(E88X>0n	Cloze+	FAA Instrument Rating	{{c1::MDQ}} CTAF:&nbsp;{{c2::123.0}}		
