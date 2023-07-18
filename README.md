@@ -1,2 +1,4 @@
-# Private Pilot Deck
- Anki flashcards deck for PPL oral and written 
+# Pilot Anki Deck
+Aircraft specific POH and Vspeed numbers are tailored for the Archer II and III (non G1000) PA-28-181.
+This is a large collection of flashcards I made to pass my various written, oral and practical tests for the PPL, IR, CPL, ME and ATP ratings. The collection is contained in one large deck which is then sub-divided using tags like FAR, AIM, medical, 61, 91, ACUG, ACS and so on. This deck is meant to suit my personal needs for learning but also maintaining my knowledge going forward. This should not be treated as an all inclusive, all encompassing study aid. There may be large areas of various tests missing from these cards. (for example, nothing pertaining to working with various tables and graphs like those for W&B calculation or pressure/density altitude conversion). Includes some elements from the PHAK, checklist normal and abnormal memory items, ACS, ADM, Airworthiness Directives, Advisory Circulars (specifically maneuver altitude/speed/heading limitations) etc. 
+<br/><br/>Kylan July 2023
