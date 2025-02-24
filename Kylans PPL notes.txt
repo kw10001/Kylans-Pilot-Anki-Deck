@@ -1,9 +1,14 @@
 #separator:tab
 #html:true
 #tags column:3
+What is steam fog? What flying conditions does it creates?	"Steam fog or sea smoke, forms when cold, dry air moves over
+warm water. As the water evaporates, it rises and resembles
+smoke. This type of fog is common over bodies of water
+during the coldest times of the year.&nbsp;<div><br></div><div>Low-level turbulence
+and icing are commonly associated with steam fog.</div>"	Weather
 What is a student pilot required to have in their possession to act as PIC?	Student pilot certificate, third class medical certificate, photo ID, CFI solo endorsement	61 FAR
 What are the eligibility requirements for a PPL certificate? 61.103	Be at least 17 years of age.<br>Be able to read, speak, write, and understand the English<br>language.<br>Hold at least a current third-class medical certificate.<br>Received the required ground and flight training endorsements.<br>Meet the applicable aeronautical experience requirements.<br>Passed the required knowledge and practical tests.	61 FAR
-What privileges and limitations exist for a PPL holder?	"<div style=""text-align: left;""> <br>61.113<br>May act as pic and carry passengers. <br>Allowed in all airspace except class A, day or night. <br>May not fly an airplane for compensation or hire!<br>Cannot pay less than pro rata share with passengers (fuel, rental, oil, airport expenditure)</div>"	
+What privileges and limitations exist for a PPL holder? Provide FAR.	"<div style=""text-align: left;""> <br>61.113<br>May act as pic and carry passengers. <br>Allowed in all airspace except class A, day or night. <br>May not fly an airplane for compensation or hire!<br>Cannot pay less than pro rata share with passengers (fuel, rental, oil, airport expenditure)</div>"	
 Define ADM	ADM, or Aeronautical Decision Making, is a systematic approach to the mental process used by pilots to consistently determine the best course of action in response to a given set of circumstance	
 What is CCCCC, when does it apply?	<div style='text-align: left;'> <br>CCCCC is an acronym used when a pilot finds themselves lost.  Climb, confess, conserve, comply, communicate. <br>- <u>Climb</u>, gain altitude<br>- <u>Confess</u>, admit to yourself that you are lost<br>- <u>Conserve</u> fuel<br>- <u>Communicate</u> with ATC to allow them to better assist you. Notify ATC if their instruction is unsuitworthy for your situation. Do you have enough fuel to get to the airport ATC is telling you to divert to? Will ATC instruction result in VFR flight into IMC. Help ATC help you. <br>- <u>Comply</u>, do what ATC tells you	
 What is the process for issuing an emergency AD?	Notice of Proposed Rulemaking (NPRM), followed by a Final Rule<br><br>Final Rule; Request for Comments<br><br>Emergency ADs	
@@ -13,23 +18,19 @@ What is NTSB and what is its role?	National Transportation Safety Board. The rol
 What is an accident? Define. When must a report be filed and under what condition?	- Any person suffers death or serious injury or in which the aircraft receives substantial damage<br>- The operator of the aircraft must file an accident report within ten days or seven days if overdue aircraft is still missing	NTSB
 What is an incident? When must a report be filed with the NTSB?	 An occurrence other than an accident that affects or could affect the safety of operations<br>- The operator of the aircraft is required to submit a report to the nearest NTSB field office <u>when requested</u>	NTSB
 Define operator (regarding NTSB)	Any person who causes or authorizes the operation of an aircraft<br><br>Ex: owner, lessee of an aircraft	NTSB
-What is considered substantial damage?<br>NTSB 830	- Damage or failure that adversely affects the structural strength, performance, or flight characteristics of the aircraft and would usually require significant repair or replacement	NTSB
 What is not considered substantial damage?<br>NTSB	Engine failure or damage limited to an engine if only one engine fails or is damaged<br><br>Bent fairings or cowling<br><br>Dented skin<br><br>Small punctured holes in the skin or fabric<br><br>Ground damage to rotor or propeller blades<br><br>Damage to landing gear, wheels, tires, flaps, engine accessories, brakes, or wingtips	NTSB
 When is immediate notification to NTSB required?<br>NTSB 830	***Any time an aircraft is involved in an accident***<br><br>Any of the following incidents:<br><br>Flight control system malfunction or failure<br><br>The Inability of a required crew-member to perform normal duties<br><br>Failure of structural components of a turbine engine excluding compressor and turbine blades and vanes<br><br>In-flight fire<br><br>Aircraft collide in flight<br><br>Damage to property, other than the aircraft, estimated to exceed $25,000 for repair (including materials and labor) or fair market value in the event of total loss, whichever is less<br><br>For large multi-engine aircraft (more than 12,500 pounds maximum certificated takeoff weight):<br><br>Inflight failure of electrical systems which requires the sustained use of an emergency bus powered by a back-up source such as a battery, auxiliary power unit, or air-driven generator to retain flight control or essential instruments;<br><br>Inflight failure of hydraulic systems that results in sustained reliance on the sole remaining hydraulic or mechanical system for movement of flight control surfaces;<br><br>Sustained loss of the power or thrust produced by two or more engines; and<br><br>An evacuation of aircraft in which an emergency egress system is utilized<br><br>An overdue aircraft believed to be involved in an accident	NTSB
 Manner of notification to the NTSB<br>NTSB 830	The most expeditious method of notification available. (Phone call or notify FAA who would in turn contact NTSB)	FAR NTSB
 Types of info to include in report to NTSB?<br>NTSB 830	Type, nationality, and registration marks of the aircraft<br><br>Name of owner and operator of the aircraft<br><br>Name of the pilot-in-command<br><br>Date and time of the accident, or incident<br><br>Last point of departure, and point of intended landing of the aircraft<br><br>Position of the aircraft with reference to some easily defined geographical point<br><br>Number of persons aboard, number killed, and number seriously injured<br><br>Nature of the accident, or incident, the weather, and the extent of damage to the aircraft so far as is known; and<br><br>A description of any explosives, radioactive materials, or other dangerous articles carried	NTSB
 Follow up reports to NTSB after how long?<br>NTSB 830	The operator must file a report on NTSB Form 6120.1 or 6120.2, available from NTSB Field Offices or from the NTSB, Washington, DC, 20594:<br><br>Within 10 days after an accident;<br><br>When, after 7 days, an overdue aircraft is still missing;<br><br>A report on an incident for which notification is required as described in subparagraph a(1) must be filed only as requested by an authorized representative of the NTSB<br><br>Each crewmember, if physically able at the time the report is submitted, must attach a statement setting forth the facts, conditions, and circumstances relating to the accident or incident as they appeared. If the crewmember is incapacitated, a statement must be submitted as soon as physically possible	830 NTSB
 Where to file a report with the NTSB?<br>NTSB 830	The operator of an aircraft must file with the NTSB Field Office nearest the accident or incident any report required by this section	830 NTSB
-Regarding the preservation of an incident or accident site. Exceptions? <br>NTSB	The site must be preserved, and therefore nothing moved, for investigators to see things as they impacted<br><br>Exceptions include:<br><br>Protecting mail<br><br>Protecting cargo<br><br>Protecting documents	NTSB
+Regarding the preservation of an incident or accident site. Exceptions? <br>NTSB	Refer to NTSB part 830. It states, in short:<br><br>The wreckage may not be disturbed, except to remove injured persons, prevent further damage to the wreckage, or to protect the public.  	NTSB
 Night definition used when determining currency to carry passengers at night<br>FAR 61.57	The time beginning one hour after sunset and extending to one hour before sunrise&nbsp;	FAR
 This definition of night is used to determine when you need position lights<br>FAR 91.209	Sunset to sunrise&nbsp;	FAR
 Define and explain the acronym REIL	Runway End Identifier Lights. Provides rapid and positive identification of the end of the runway. The system consists of two synchronized, unidirectional strobe lights. The lights are positioned on each corner of the runway landing threshold, facing the approach area and aimed at an angle of 10 to 15 degrees.	AIM
-What are eustachian tubes?&nbsp;	Eustachian tubes connect the middle ears to the back of the throat. They help drain fluid and equalize the air pressure inside your ears. Sometimes your Eustachian tubes can become blocked due to colds, allergies or infections.	Medical
 What are the recommended waiting times before flying after scuba diving?<br>AIM 8-1-2d	12 hours before a flight below 8,000ft MSL after a dive not requiring controlled ascent.&nbsp;<br>24 hours before a flight below 8,000ft MSL after a dive requiring controlled ascent.&nbsp;<br>Any flight over 8,000ft MSL should be done no sooner than 24 hours after a dive to avoid decompression sickness.&nbsp;	AIM
-When is a Mode C transponder required for a VFR pilot?	"<div><ul><li style=""text-align: left;"">Within the Mode C veil (30nm radius from a primary Class B airport)</li><li style=""text-align: left;"">Within the lateral bounds and above Class B and C airspace up to 10,000ft MSL</li><li style=""text-align: left;"">Anytime you are above 10,000ft MSL excluding the airspace at and below 2,500 feet AGL</li></ul></div>"	Airspace FAR
 ADIZ transponder requirements and exceptions	Mode C or Mode S transponder requirement for operations into, within or across the contiguous US ADIZ boundary. Balloons, gliders and aircraft not equipped with an engine-driven electrical system are excepted from this requirement.	FAR
 As of January 1, 2020, what is the requirement for ADS-B out capability&nbsp;	ADS-B out (broadcast) is required on all aircraft operating in airspace where a transponder is required (Balloons, gliders and aircraft not originally certificated with an elec system are exempt from the mode-C ADS-B requirement)<br><br><ul><li>Class A, B, and C airspace;</li><li>Class E airspace at or above 10,000 feet msl, excluding airspace at and below 2,500 feet agl;</li><li>Within 30 nautical miles of a Class B primary airport (the Mode C veil);</li><li>Above the ceiling and within the lateral boundaries of Class B or Class C airspace up to 10,000 feet;</li><li>Class E airspace over the Gulf of Mexico, at and above 3,000 feet msl, within 12 nm of the U.S. coast.</li></ul>	FAR
-Which aircraft are exempted from the transponder and ADS-B out requirements?	Transponder and ADS-B Out requirements do not apply to any aircraft that was not originally certificated with an electrical system, or that has not subsequently been certified with such a system installed, including balloons and gliders, may operate outside class B and C airspace and below the altitude of the ceiling of a Class B or Class C airspace area designated for an airport, or 10,000 feet MSL, whichever is lower	Airspace FAR
 What must a private pilot have to tow a glider? Where can more info be found (provide FAR)?	Holds private, commerial or ATP with a category rating in powered aircraft&nbsp;<br>Has at least 100 hrs of PIC in the same category, class and type (if required)<br>Logbook endorsement from an authorized instructor that they have received ground and flight training for glider operations<br>Has within the last 24 months, completed at least 3 actual or simulated tows	FAR
 Explain the seatbelt regulation. Provide the FAR for more info.&nbsp;	<ul><li>Pilot must brief passengers about the safety belts before flight.&nbsp;</li><li>Everyone must be notified about using seatbelts while moving on the surface, and during takeoff and landing.&nbsp;</li><li>Pilot must be belted in at all times. </li><li>If a shoulder belt is installed, it must be worn at all times except while enroute.</li></ul>91.105 (pilot requirement and lapbelt/shoulder harness)<br>91.107 (passenger requirement and briefing)<br>	FAR
 Describe the PPP (3P) model and when it is used?	Perceive, Process, Perform (3P). It is a systematic decision making process which can be used in all phases of flight. An additional step is to Evaluate the outcome of the decision and the action which resulted from that decision.&nbsp;	ADM
@@ -46,29 +47,16 @@ someone else (e.g., do you need to consult the chief
 flight instructor?)&nbsp;</li><li>Eliminate—Is there a way to eliminate the hazard?&nbsp;</li><li>Accept—Do the benefits of accepting risk outweigh
 the costs?&nbsp;</li><li>Mitigate—What can you do to mitigate the risk?</li></ul>"	ADM
 What is a VOR radial?	It's a line of magnetic bearing extending from a vor.&nbsp;	XC
-Frontolysis	a dissipating weather front (cold frontolysis, warm frontolysis, stationary frontolysis)	Weather
-Frontogenesis	a strengthening weather front (cold frontogenesis, warm frontogenesis, stationary frontogenesis)	Weather
 How are VOR navaids classified?	Terminal, low, high	FAR
-RAIM	receiver autonomous integrity monitoring is a self monitoring function performed by the GPS to ensure adequate health of position information for navigational use. Loss of raim integrity may mean too few satellites are available for accurate location, altitude and/or speed. Caution should be used when navigating using GPS as some GPS units do not contain RAIM capability, so signal integrity can degrade without the pilot being aware.&nbsp;	Acronym FAR
-Winds aloft charts are updated how often?	4 times daily	Weather
-Engine restart inflight procedure&nbsp;	ABCDE<br>A - Airspeed<br>B - Best field&nbsp;<br>C - Checklist&nbsp;<br>---<br>Mixture - rich<br>Fuel tanks - switch<br>Fuel pump - on<br>Carb heat - on<br>---<br>D - Declare emergency (to ATC, on CTAF or on guard)<br>E - Execute&nbsp;	memory-items pa28 POH
-Short field, obstacle clearance takeoff procedure	flaps 25<br>full engine power prior to brakes release<br>accelerate to 55 KIAS (weight depending)<br>on liftoff, accelerate to 60 KIAS<br>accelerate to best flaps up angle climb speed 64 KIAS<br>flaps retract slowly once obstable cleared&nbsp;<br>accelerate to best rate climb speed 76 KIAS	PA28_POH
-Vr (PA28)	60 KIAS	PA28_POH
-Va (Archer). Describe. What is the Va at empty? What is the Va at max gross? Why is Va higher when the airplane is heavier?	Va, or manuevering speed is the maximum speed at which full deflection of the flight controls can be achieved without risking damage to the airframe.&nbsp;<br>113 KIAS at max gross (2550 lbs)<br>89 KIAS at empty weight (1634 lbs)<br>*The airplane is more vulnerable to airframe damage the lighter it is. This is because a heavier airplane is more difficult to maneuver than a lighter one due to its increased mass.<br>	PA28_POH
-Vx (Archer)	Vx or best angle speed, is the speed with which the airplane will gain the most altitude in the shortest distance.&nbsp;<br>64 KIAS (Archer)	PA28_POH
-Vy (Archer)	Vy or best rate of climb speed is the speed at which the airplane will gain the most altitude in a given time.<br>76 KIAS (Archer)	PA28_POH
-Vfe (Archer)	Vfe or max flaps extended speed is the maximum speed the flaps can be left fully extended without risking damage. Vfe is the top of the white arc.&nbsp;<br>102 KIAS (Archer)	PA28_POH
-Vne (Archer)	Vne or never exceed speed is the red line on the ASI. Any amount of turbulence at this airspeed can easily overstress the airplane.&nbsp;<br>154 KIAS (Archer)	PA28_POH
-Vno (Archer)	Vno or&nbsp;maximum speed for normal operation or the maximum structural cruising speed, is the top of the green arc/bottom of the yellow arc. Beyond this speed, overstressing the airplane can cause permanent damage to the airframe. Only exceed this speed (top of green arc) in clean air.&nbsp;<br>125 KIAS (Archer)	PA28_POH
-V<sub>s0&nbsp;</sub>(Archer). Describe it. How is it dipicted on the ASI?	V<sub>s0&nbsp;</sub>is the absolute minimum airspeed with full flaps. Bottom of the white arc<br>49 KIAS (Archer)	PA28_POH
-Define V<sub>s1&nbsp;</sub><br>How is it depicted on the ASI<br>What is the Archers V<sub>s1&nbsp;</sub>	V<sub>s1&nbsp;</sub>is the minimum airspeed without flaps extended/in a clean configuration. Bottom of the green arc.&nbsp;<br>54 KIAS (Archer)	PA28_POH
-DMMS	DMMS or Demonstrated Minimum Maneuvering Speed is a theoretical airspeed minimum which allows for the greatest safety cushion while on approach or departure.&nbsp;<br>Calculate by multiplying 1.404 * Vs1 (clean)<br>76 KIAS (Archer)	PA28_POH
-Class A weather minimums (VFR)	None. Must be on instrument flight plan, be instrument rated and in an airplane which is instrument equipped.&nbsp;	Airspace
-Class B weather minimums (VFR)	3 statute miles, clear of clouds&nbsp;	Airspace
-Class C weather minimums (VFR)	3 statute miles, 152 (1000 above, 500 below, 2000 horizontal)	Airspace
-Class D weather minimums (VFR)	3 statute miles, 152 (1000 above, 500 below, 2000 horizontal)	Airspace
-Class E weather minimums (VFR)	<div style='text-align: left;'> <br>::: Less than 10,000ft MSL<br>- 3 statute miles, 152 (1000 above, 500 below, 2000 horizontal)<br>::: At or above 10,000ft MSL<br>- 5 statute miles, (111) 1000 below, 1000 above, 1 statute mile horizontal	Airspace
-Class G weather minimums (VFR)	<div style='text-align: left;'> <br>::: 1200ft or less AGL<br>-Day - 1sm, clear of clouds<br>-Night - 3sm, 152 (1000 above, 500 below, 2000 horizontal)<br><br>::: More than 1200 AGL, less than 10000 MSL<br>-Day - 1sm, 152 (1000 above, 500 below, 2000 horizontal)<br>-Night - 3sm, 152 (1000 above, 500 below, 2000 horizontal)<br><br>::: More than 1200 AGL, at or above 10000 MSL<br>- 5sm, 111 (1000 above, 1000 below, 1sm lateral)<br><br>	Airspace
+RAIM	Receiver Autonomous Integrity Monitoring is a self monitoring function performed by the GPS to ensure adequate health of position information for navigational use. Loss of raim integrity may mean too few satellites are available for accurate location, altitude and/or speed. Caution should be used when navigating using GPS as some GPS units do not contain RAIM capability, so signal integrity can degrade without the pilot being aware.&nbsp;	Acronym FAR
+Vr (PA28)	60 KIAS	PA28-181
+Va (Archer). Describe. What is the Va at empty? What is the Va at max gross? Why is Va higher when the airplane is heavier?	Va, or manuevering speed is the maximum speed at which full deflection of the flight controls can be achieved without risking damage to the airframe.&nbsp;<br>113 KIAS at max gross (2550 lbs)<br>89 KIAS at empty weight (1634 lbs)<br>*The airplane is more vulnerable to airframe damage the lighter it is. This is because a heavier airplane is more difficult to maneuver than a lighter one due to its increased mass.<br>	PA28-181
+Vx (Archer)	Vx or best angle speed, is the speed with which the airplane will gain the most altitude in the shortest distance.&nbsp;<br>64 KIAS (Archer)	PA28-181
+Vy (Archer)	Vy or best rate of climb speed is the speed at which the airplane will gain the most altitude in a given time.<br>76 KIAS (Archer)	PA28-181
+Vfe (Archer)	Vfe or max flaps extended speed is the maximum speed the flaps can be left fully extended without risking damage. Vfe is the top of the white arc.&nbsp;<br>102 KIAS (Archer)	PA28-181
+Vne (Archer)	Vne or never exceed speed is the red line on the ASI. Any amount of turbulence at this airspeed can easily overstress the airplane.&nbsp;<br>154 KIAS (Archer)	PA28-181
+Vno (Archer)	Vno or&nbsp;maximum speed for normal operation or the maximum structural cruising speed, is the top of the green arc/bottom of the yellow arc. Beyond this speed, overstressing the airplane can cause permanent damage to the airframe. Only exceed this speed (top of green arc) in clean air.&nbsp;<br>125 KIAS (Archer)	PA28-181
+V<sub>s0&nbsp;</sub>(Archer). Describe it. How is it dipicted on the ASI?	V<sub>s0&nbsp;</sub>is the absolute minimum airspeed with full flaps. Bottom of the white arc<br>49 KIAS (Archer)	PA28-181
 IMSAFE checklist. Which acronym does it apply to?	Illness, Medication Stress, Alcohol, Fatigue, Eating/Emotional.<br>It applies to the P letter in the PAVE checklist (Pilot/PIC)	Acronym
 PAVE	Pilot, Aircraft, Environment, External Pressures	Acronym
 DECIDE	*Continuous loop*<br><u>Detect</u> a change has occured<br><u>Estimate</u> the need to counter the change<br><u>Choose</u> a desirable outcome<br><u>Identify</u> actions to successfully control the change<br><u>Do</u> the necessary action<br><u>Evaluate</u> the effects of the action; is further action required?	Acronym
@@ -82,7 +70,7 @@ ABCDE	Airspeed!<br>Best field<br>Checklist<br>Declare emergency (ctaf, guard, at
 TAWS	Terrain Awareness and Warning System	Acronym
 WAAS	Wide Area Augmentation System provides incredibly high precision navigation by augmenting GPS in most of North America	Acronym
 SPARROW	Supplements<br>Placcards<br>Airworthiness certificate<br>Registration (36 months)<br>Radio Operator<br>Operators handbook<br>Weight and Balance<br><br>	Acronym
-A1TAPE	Annual<br>100 hour<br>Transponder<br>Altimiter (IFR)<br>Pitot/Static (IFR)<br>ELT	Acronym
+A1TAPE	Annual, 12mo<br>100 hour<br>Transponder, 24mo<br>Altimiter (IFR), 24mo<br>Pitot/Static (IFR)<br>ELT, 12mo	Acronym
 Describe Macho. Antidote?	"""I can do it"". Can lead to taking unnecessary risks.<br>Antidote: Taking chances is foolish"	ADM
 Name the 5 hazardous attitudes?	AMIIR<br>anti-authority, macho, impulsivity, invulnerability, resignation&nbsp;	ADM
 Describe Resignation. Antidote?	"""What's the use"". <br>A passive hazardous attitude. A pilot will not address problems effectively in a timely manner.&nbsp;<br>Antidote: I am not helpless, I can make a difference"	ADM
@@ -90,59 +78,30 @@ Describe Impulsivity. Antidote?	"""Do it quickly!"" <br>Antidote: Not so fast...
 Describe anti authority. Antidote?	"""Don't tell me what to do""<br>Antidote: Follow the rules, they are usually right.&nbsp;"	ADM
 Describe Invulnerability. Antidote?	"""It won't happen to me""<br>Antidote: It could happen to me.&nbsp;"	ADM
 What are the 4 primary risk areas of a flight?	PAVE. Pilot, aircraft, environment, external pressures.&nbsp;	ADM
-List the types of fog	Radiation fog<br>Advection fog<br>Upslope fog<br>Evaporation fog<br>Ice fog	Weather
-Describe radiation fog	"Radiation fog (ground fog) forms over low lying terrain on clear, calm, humid nights.&nbsp;<br><br>Mnemonic: Earth """"radiates"""" away heat overnight while the sun is down allowing surface temperatures to fall meeting the dewpoint of low lying air. "	Weather
-Describe advection fog	Advection fog forms when a low layer of warm, moist air moves over a cold surface. Often occurs over water or when warm air is blown over snow covered ground&nbsp;	Weather
 Describe upslope fog	Forms when moist, stable air is forced up a sloping land mass to where the air becomes saturated and condensation forms. Requires wind. Usually seen in the winter. Orographic cloud. 	Weather
-Describe evaporation fog (two types)	"Steam: Cold air moves over warm water. Steamy water; ""Seasmoke""<br>Frontal: Raindrops evaporate into cooler, drier air near the ground.&nbsp;"	Weather
-Describe ice fog	Occurs in extremely cold weather (below 25F) where water vapor sublimates directly into ice crystals causing dense fog. Can be blinding to pilots flying into the sun.	Weather
 What are the elements of the 5P model?	Plan, plane, pilot, passengers, programming	ADM
 Name some relevant areas of the Plan element of the 5P model?	Plan can be thought of as the flight planning portion of the model. Fuel, notams, ATC delays, alternates, runway lengths, takeoff/landing distances, weather.&nbsp;	ADM
 Name some relevant areas of the Plane element of the 5P model?	This relates to airworthiness. Verify mechanical fitness, system familiarity, paperwork, databases updated and valid.&nbsp;	ADM
 How is the pilot aspect of the 5P model important?	The pilot is vital to safely completing a flight, especially when single pilot. IMSAFE should be used to evaluate pilot fitness.&nbsp;	ADM
 How does the passenger aspect of the 5P model affect safety?	Address passenger fears/apprehension when it comes to the safety of air travel and turbulence. Brief passengers about the likelihood of a diversion in case of weather or some other safety related issue. Ensure passengers do not influence the go/no go decision. (External pressures of the PAVE checklist)	ADM
-Class A weather minimums? Are private pilots allowed in Class A? What do pilots need to operate in Class A?	No minimums<br>Private pilots are not allowed in Class A, unless:<br>1. They have an instrument rating<br>2. They are on an instrument flight plan<br>3. The airplane is instrument rated	Airspace
-Class B weather minimums	3sm Clear of Clouds	Airspace
-Class C weather minimums	3sm 152 (1,000 above, 500 below, 2,000 lateral)	Airspace
-Class D weather minimums	3sm 152 (1,000 above, 500 below, 2,000 lateral)	Airspace
-Class E weather minimums	<div style='text-align: left;'> <br>Below 10,000ft MSL: 3sm 152 (1,000 above, 500 below, 2,000 lateral)<br>At or above 10,000ft MSL: 5sm 111 (1,000 above, 1,000 below, 1sm lateral)	Airspace
-Class G weather minimums 1,200ft or less AGL	<div style='text-align: left;'> <br>Day: 1sm CoC<br>Night: 3sm 152 (1,000ft above, 500 below, 2,000ft lateral)	Airspace
-Class G weather minimums more than 1,200ft AGL but less than 10,000ft MSL	<div style='text-align: left;'> <br>Day: 1sm 152 (1,000ft above, 500 below, 2,000ft lateral)<br>Night: 3sm 152 (1,000ft above, 500 below, 2,000ft lateral)	Airspace
-Class G weather minimums more than 1,200ft AGL and at or above 10,000ft MSL	<div style='text-align: left;'> <br>5sm 1,000ft above, 1,000ft below, 1sm lateral	Airspace
-Class C/D speed restriction and within what physical area around the airport? (91.117b)	no person may operate an aircraft at or below 2,500 feet above the surface within 4 nautical miles of the primary airport of a Class C or Class D airspace area at an indicated airspeed of more than 200 knots 	Airspace
-What airspace is SVFR permitted?	Aircraft operating in or transitioning Class B, C, D, E when the primary airport is reporting VFR but the pilot advises that basic VFR cannot be maintained. 91.157	91 Airspace
-What are the SVFR weather minimums?	Unlike basic VFR minimums, which is 3sm and 1,000ft ceilings, SVFR reduces VFR minimums to basically Class G sub-1200ft AGL; 1sm CoC	Airspace
-Where may SVFR be conducted?	SVFR operations may be authorized for aircraft operating in or transiting a Class B, Class C, Class D, or Class E surface area, below 10,000ft MSL, when the primary airport is reporting VFR but the pilot advises that basic VFR cannot be maintained. SVFR condition based on weather at landing/departing airport. 	Airspace
-When do Instrument Meteorological Conditions (IMC) exist?	When VMC conditions do not exist; such as when visibility and/or ceilings fall below the VFR minimum for the airspace you're operating in. 	Airspace
-Fixed wing requirements for SVFR during the day?	ATC clearance (before entering controlled airspace)<br>Maintain clear of clouds<br>At least 1sm visiblity at airport of intended departure/arrival&nbsp;	Airspace
-Fixed wing requirements for SVFR at night?	All day requirements+<br>- Pilot is instrument rated<br>- Aircraft is instrument equipped	Airspace
-In order to operate in controlled airspace with below VFR weather reported, what must a pilot have?	A pilot must have ATC clearance to operate inside controlled airspace under SVFR minimums	Airspace
-From whom can an SVFR clearance be garnered?	Tower, approach/center or a request can be sent to a flight service station (FSS) who can help coordinate with ATC for the pilot.	Airspace
-Where is the general area where SVFR operations are conducted?&nbsp;	SVFR operations may be authorized for aircraft operating in or transiting a Class B, Class C, Class D, or Class E surface area when the primary airport is reporting VFR but the pilot advises that basic VFR cannot be maintained.	Airspace
 GPWS	Ground Proximity Warning System. EGPWS is a modern version of TAWS	Acronym
 FSDO? What activities do FSDO staff engage in?	Flight Standards District Office is an FAA field office which serves a geographic area staffed with Flight Standards personnel.<br><br>Activities include general surveillance of operational safety, certification of airmen and aircraft, accident prevention, investigation, enforcement, etc.<br><ul><a></a><br></ul>	Acronym
-What privileges and limitations apply to a private pilot?	"<div style=""text-align: left;""> <br>61.113<br>No person who holds a private pilot certificate may act as a pilot-in-command of an airctaft that is carrying passengers or property for compensation or hire.<br><br>a. may act as PIC in connection with business if it is incidental<br><br>b. may not pay less that pro rata share of expenses with passengers (limited to fuel, oil, airport expenditure, rental fees)<br><br>c. my act as PIC of A/C used in passenger-carrying for charitable organizations<br><br>d. may be reimbursed for search and locations operations<br><br>e. may demonstrate A/C in flight to buyer if pilot is a salesman and has @ least 200 hours logged time<br><br>f. may act as PIC of A/C towing glider if they meet requirements of 61.69 (100 hrs pic in sm cat+class,logbook endorsement and proper training,currency requirments)</div>"	61 FAR
-What are some examples of major alternations? (Appendix A Part 43)	Wings<br>Tail surface<br>Fuselage<br>Engine mounts<br>Control systems<br>Landing Gear<br>Hull/Floats<br>Elements of an airframe (spars, ribs, fittings, shock absorbers, bracing, cowling)<br>*Changes to the empty weight or empty balance of the airframe which result in an increase to the maximum certificated weight	43 FAR
+What privileges and limitations apply to a private pilot? Provide FAR.	"<div style=""text-align: left;""> <br>61.113<br>May not act as a pilot-in-command of an airctaft that is carrying passengers or property for <u>compensation or hire</u>.<br><br>a. may act as <u>PIC in connection with business if it is incidental</u><br><br>b. may <u>not pay less that pro rata</u> share of expenses with passengers (limited to fuel, oil, airport expenditure, rental fees)<br><br>c. my act as PIC of A/C used in passenger-carrying for <u>charitable organizations</u><br><br>d. may be <u>reimbursed for search and locations operations</u><br><br>e. may <u>demonstrate A/C</u> in flight to buyer if pilot is a salesman and has @ least 200 hours logged time<br><br>f. may act as <u>PIC of A/C towing glider</u> if they meet requirements of 61.69 (100 hrs pic in sm cat+class,logbook endorsement and proper training,currency requirments)</div>"	61 FAR
+What are some examples of major alterations? (Appendix A Part 43)	Wings<br>Tail surface<br>Fuselage<br>Engine mounts<br>Control systems<br>Landing Gear<br>Hull/Floats<br>Elements of an airframe (spars, ribs, fittings, shock absorbers, bracing, cowling)<br>*Changes to the empty weight or empty balance of the airframe which result in an increase to the maximum certificated weight	43 FAR
 What are some examples of preventive maintenance as described in Appendix A Part 43(c)	Tires<br>Landing gear strut add/change oil or air<br>Landing gear wheel bearings<br>Lubrication not requiring disassembly&nbsp;<br>Replenishing hydraulic fluid&nbsp;<br>Seats or seat parts not involving disassembly of any primary structure<br>Replacing light bulbs<br>Replacing/cleaning spark plugs<br>Replacing any hose EXCEPT hydraulic&nbsp;<br>Replacing/cleaning fuel or oil filters<br>Replacing or servicing batteries<br><br>In general, <u>replacement</u> of items with <u>originally approved parts</u> is permitted.&nbsp;<br>Servicing or repairing the aircraft in a way which does not affect weight and balance computation and doesn't involve disassembly or affect an aircraft system.&nbsp;	43 FAR
 What kind of mechanic can perform and sign on an annual inspection?	An A&amp;P mechanic with Inspection Authorization (IA)	FAR
 Required inspections to be performed on aircraft? (VFR and IFR)	<ul><li>Annual 12mo</li><li>VOR (30 day, IFR)</li><li>100 hour (if for hire)</li><li>Altimiter/Pitot Static (24mo, IFR)</li><li>Transponder (24mo)</li><li>ELT (12 mo, 1/2 battery, 1hour use)</li><li>ADs</li></ul>	FAR
-3 types of briefings&nbsp;	Standard, abbrieviated, outlook	Weather
-Aircraft registration valid for?<br>Temporary registration valid for?	3 years, temporary valid for 90 days from signature date	91 FAR
+Aircraft registration valid for?<br>Temporary registration valid for?	7 years (recently upped from 3 years), temporary valid for 90 days from signature date	91 FAR
 3P	Perceive, Process, Perform<br>Continual decision making process&nbsp;	Acronym ADM
 ADM: RM	Risk Management	ADM
 ADM: TM	Task Management	ADM
 ADM: AM	Automation Management	ADM
-Required equipment for Day and Night VFR	Compass<br>Altimiter<br>Airspeed Indicator<br>Oil temp<br>Oil pressure<br>Manifold pressure<br>Engine temperature&nbsp;<br>Tachometer<br>Fuel gauge&nbsp;<br>Landing gear position indicator&nbsp;<br>Anti collision light<br>Seatbelts/Shoulder harnesses&nbsp;<br>ELT<br>Survival equipment (if for hire)<br><br>Night:<br>Anticollision light<br>Position lights<br>Landing light (if for hire)<br>Source of electricity&nbsp;<br>Fuses (spare set, or 3 of each type)<br><br>	91 FAR
+Required equipment for Day and Night VFR	Compass<br>Altimiter<br>Airspeed Indicator<br>Oil temp<br>Oil pressure<br>Engine temperature&nbsp;<br>Manifold pressure<br>Tachometer<br>Fuel gauge&nbsp;<br>Landing gear position indicator&nbsp;<br>Anti collision light<br>Seatbelts/Shoulder harnesses&nbsp;<br>ELT<br>Survival equipment (if for hire)<br><br>Night:<br>Anticollision light<br>Position lights<br>Landing light (if for hire)<br>Source of electricity&nbsp;<br>Fuses (spare set, or 3 of each type)<br><br>	91 FAR
 Oxygen requirements	Required flight crew members must use supplemental oxygen:<br><ul><li>If operating between 12,500ft MSL and 14,000ft MSL for greater than 30 minutes.</li><li>At all times operating above 14,000ft MSL</li></ul><div>Passengers must have oxygen <u>available</u> above 15,000ft MSL</div>	FAR
 A private pilot is allowed to perform what kind of maintenance on an airplane? What FAR provides more information?	Preventative maintenance: Replace bulbs, reflectors, and lenses of position and landing lights. Replace or clean spark plugs and set spark plug gap clearance. Replace any hose connection, except hydraulic connections. Replace and service batteries.<br>FAR 43.7	43 FAR
 Privileges of a pilot flying under basic med? Provide FAR?	Fly an aircraft under 6,000lbs<br>Fly an aircraft certificated to carry no more than 6 persons<br>Fly with 5 or fewer passengers<br>Below 250kts<br>Below 18,000ft MSL<br>Fly within the USA<br>No flying for compensation or hire<br>BasicMed info is available in an Advisory Circular AC68-1A	FAR
 Limitations of a pilot flying under BasicMed? Provide FAR?	<ul><li>Valid US driver license</li><li>Held a medican any time after July 14, 2006</li><li>Complete CMEC</li><li>Get physical exam</li><li>BasicMed online course</li><li>BasicMed info is available in an Advisory Circular AC68-1A</li></ul>	FAR
 Dry adiabatic lapse rate?	5.5F per 1,000ft elevation<br>(9.8C per km elevation)<br>	Weather
-Wet adiabatic lapse rate (saturated air)? (Celcius per 1,000ft)	3C per 1,000ft	Weather
-Dry adiabatic lapse rate (unsaturated air)? (Celcius per 1,000ft)	1.5C per 1,000ft	Weather
-Which would cause engine oil temp and cylinder head temp to exceed normal operating range?	Using a fuel with a lower than allowable fuel octane	PA28_POH
-What type of fuel can be substituted for an aircraft if the recommeneded octain is unavailable?	The next higher octane level&nbsp;	PA28_POH
-How often are chart supplements revised?	Every 8 weeks	Airspace
 ATIS	Automated Terminal Information Service	Acronym
 AWOS	Automated Weather Observation System	Acronym
 ASOS	Automated Surface Observation System	Acronym
@@ -150,7 +109,6 @@ METAR	Meteorological Terminal Air Report	Acronym
 TAF	Terminal Area Forecast&nbsp;	Acronym
 SIGMET. Explain	Significant Meteorological Information<br>Affect all aircraft. <br>Usually expire after 4 hours.&nbsp;<br>Severe turbulence, severe icing, dust, sand, volcanic ash	Acronym
 AIRMET. Explain. List the 3 types. Who do AIRMETs apply to?	"Airmens Meteorological Information<br>Moderate turbulence and icing, sustained surface winds of 30 knots or more, or widespread restricted visibility<br>Every 6 hours<br>Sierra - Mountain obscuration&nbsp;<br>Zulu - Icing<br>Tango - Turbulence<br><br>Language about AIRMETs only applying to ""light aircraft"" has been removed. AIRMETs are now applicable to all aircraft.&nbsp;"	Acronym
-Application of carb heat has what effect on the fuel air mixture?	It enrinchens it. (Warmer air is less dense, meaning the same fuel volume for less dense air)	PA28_POH
 AOA	Angle of Attack is the relationship between chord line of the wing/airfoil and the relative wind&nbsp;	Acronym
 An aircraft is involved in an accident which results in substantial damage, when must the NTSB field office be notified?	Immediately	NTSB
 What kinds of in flight incidents require the NTSB be notified?	<ul><li>Overdue aircraft believed to be involved in an accident</li><li>In flight fire</li><li>Flight control malfunction or failure</li><li>Inability of a flight crew member to perform duties due to illness or injury</li><li>Failure of structural components of a turbine engine</li><li>Aircraft collision in flight</li></ul>	NTSB
@@ -160,37 +118,17 @@ With respect to certification of aircraft, what are categories of aircraft?	Norm
 With respect to certification of aircraft, what is a class of aircraft?	Airplane, rotorcraft, glider balloon<br>Grouping of aircraft with similar characteristics of propulsion, flight or landing.&nbsp;	FAR
 How soon after a conviction for alcohol or drugs must a pilot report to the FAA's Security and Hazardous Materials Safety Office?	Each person holding a pilot certificate shall report every motor vehicle action involving alcohol or drugs to the FAA's SHMSO no later than <u>60 days</u> after the action&nbsp;	FAR
 How soon after a conviction after driving while intoxicated with alcohol or drugs shall it be reported to the FAA? What office should be notified? Provide FAR	Each person holding a certificate under Part 61 shall notify within 60 days after the motor vehicle action. Reports should be made to the FAA's Security and Hazardous Materials Safety Office&nbsp;<br>61.15	61 FAR
-Whats the lost comm procedure at a tower controlled airfield	Observe the flow of traffic, enter the traffic pattern, watch for light gun signals, rock wings to acknowledge	AIM
+Whats the lost comm procedure at a tower controlled airfield	Squawk 7600 (if transponder still functioning), observe the flow of traffic, enter the traffic pattern, watch for light gun signals, rock wings to acknowledge	AIM
 What other aeromedical conditions does carbon monoxide poisoning mimic?	Hypoxia. The difference is CO poisoning does not get better if CO is removed from the beathing environment. A pilot must get on the ground as soon as possible when CO poisoning is suspected.&nbsp;	AIM Medical
-"Define:<br><img src=""proceedwithcaution4.jpg"">"	Alert area which marks an area with some hazard to aircraft&nbsp;	Airspace
-"Define (left airspace):&nbsp;<br><img src=""moa.jpg"">"	A MOA or Military Operations Area is a type of airspace which depicts areas of military operations on a sectional. There are two statuses to a moa, if active, aircraft can enter but should exercise extreme caution. If the airspace is not active, aircraft can enter freely.&nbsp;	Airspace
-"Define (RESTRICTED airspace):<br><img src=""moa.jpg"">"	Restricted airspace is airspace where flight operations are not always permitted. If hot, no entry into the airspace is permitted. If cold, aircraft can enter with ATC permission.&nbsp;	Airspace
-"Define:<br><img src=""prohibited.jpg"">"	A prohibited area does not allow entry.&nbsp;	Airspace
 When must position lights be used?	sunset to sunrise&nbsp;	FAR
 In order to be night current to carry passengers, what must a pilot do?	The pilot must accomplish 3 takeoffs and landings to a full stop within the time period of one hour after sunset to one hour before sunrise.&nbsp;	FAR
 What is the FAR 1.1 definition of night?	The end of evening civil twilight to the beginning of morning civil twilight.&nbsp;	FAR
 When can you log night time and when must your aircraft be night equipped?	The end of evening civil twilight to the beginning of morning civil twilight.	FAR
 Basic med allows a pilot to use a US drivers license instead of a medical certificate given the following requirements:	<ol><li>Comply with the general BasicMed requirements (possess a U.S. driver's license, have held a medical after July 14, 2006, not revoked).</li><li>Get a physical exam with a state-licensed physician, using the Comprehensive Medical Examination Checklist, CMEC</li><li>Complete a BasicMed medical education course</li></ol>	61 FAR
-BasicMed limitations&nbsp;	Aircraft not certificated for more than 6 occupants<br>Aircraft not more than 6,000lbs<br>No flying above 18,000ft, no more than 250kts, within the USA<br>No operating for compensation or hire<br>Carry no more than 5 passengers	FAR Medical
-The radius of the procedural outer area surrounding class C airspace&nbsp;	20nm&nbsp;	Airspace FAR
-Class C physical dimensions&nbsp;	surface to 4,000ft MSL out to 5nm around the Class C primary airport&nbsp;<br>1200ft up to 4,000ft MSL from 5nm out to 10nm from the Class C primary	Airspace FAR
-Class D physical dimensions	4nm radius extends from the surface to 2,500ft above the ground&nbsp;	Airspace FAR
-Describe Hypoxic Hypoxia	- Lack of oxygen absorbed by the body due to low atmospheric oxygen concentration 	Medical
-Describe Hypemic Hypoxia&nbsp;	"Remember: Emia means ""presence in blood"" (ex. Leukemia, cancer of the blood)<br>- Occurs when the blood is not able to carry a sufficient amount of oxygen to the body's cells<br><br><br><br>- Caused by anemia, disease, blood loss, deformed blood cells, or carbon monoxide (CO) poisoning and with smokers<br>- CO attaches itself to hemoglobin about 200 times more easily than oxygen<br>- After CO poisoning, it can take up to 24 hours to recover<br>- It can be a result of donating blood, resulting in a higher physiological altitude"	Medical
-Describe Stagnant Hypoxia&nbsp;	- Oxygen deficiency in the body due to poor circulation of the blood<br>- Can occur from pulling excessive Gs or cold (constricting blood vessels) temperatures may reduce blood to extremities<br>- May cause hyperventilation	Medical
 Nose high unusual attitude recovery procedure&nbsp;	Increase throttle to full<br>Lower nose to level attitude<br>Level the wings&nbsp;	Maneuvers
 Nose low unusual attitude recovery procedure	Reduce throttle to idle<br>Level the wings using coordinated aileron and rudder&nbsp;<br>Raise the nose gently to level attitude&nbsp;	Maneuvers
 During recovery from a nose low unusual attitude, why must you level the wings before raising the nose? 2 reasons	1. To prevent excessive G loading on the wings&nbsp;<br>2. To prevent experiencing an accelerated stall during the recovery&nbsp;	Maneuvers
 What are the altitude, heading and airspeed limitations during the basic instrument maneuvers (PPL - straight and level flight, constant speed climbs/descents, turns to headings etc.)	Maintain altitude ±200 feet, heading ±20°, and airspeed ±10 knots.	ACS
-What types of cloud cover would qualify as a ceiling?	Broken and Overcast	Weather
-Maximum growth rate of a thunderstorm occur during what stage?	mature stage	Weather
-An anvil top indicates what stage of a thunderstorm?	Dissipating stage	Weather
-Which atmospheric phenomena signals the beginning of the mature stage of a thunderstorm	precipitation beginning to fall	Weather
-What does 9900 mean in the winds aloft forecast&nbsp;	Winds light and variable (less than 5kts)	Weather
-What should you use if your destination has no terminal forcast?	Area forecast&nbsp;	Weather
-What is the demonstrated crosswind component of the Piper Archer/Cherokee&nbsp;	17kts&nbsp;	PA28_POH
-Class C dimensions&nbsp;	5nm radius from surface to 4,000ft&nbsp;<br>10nm radius 1200ft to 4,000ft (overlying shelf)	Airspace
-Class C requirements&nbsp;	"- Need transponder with mode C and ADS-B out<br>- Must establish two way comms before entry<br>(do not need explicit ""cleared into"" verbiage before entry like you need with Class B, may be asked to stay out of airspace)<br>"	Airspace
 MEA	Minimum Enroute Altitude	IFR
 Light gun: Steady green&nbsp;	Cleared to land/takeoff&nbsp;	LGS
 Light gun: Flashing green	Cleared for taxi/Return for landing (must be followed by steady green to land)	LGS
@@ -198,7 +136,7 @@ Light gun: Steady red	STOP! (ground)/Give way to other aircraft and continue cir
 Light gun: Flashing Red	Taxi clear of runway in use/Airport unsafe, do not land	LGS
 Light gun: Flashing white	Return to starting point on airport (no airbourne use case)	LGS
 Light gun: Alternating green and red	Exercise extreme caution!	LGS
-Describe category as it relates to both certification or airmen and aircraft	"<ul><li>As used concerning the certification, ratings, privileges, and limitations of <span style=""color: rgb(255, 251, 0);""><u><b>airmen</b></u></span>, means a broad classification of aircraft<ul><li>Examples include: airplane; rotorcraft; glider; and lighter-than-air</li></ul></li><li>As used concerning the certification of <b><u><span style=""color: rgb(255, 251, 0);"">aircraft</span></u></b>, it means a grouping of <span style=""color: rgb(255, 255, 255);"">aircraft</span> based upon intended use or operating limitations<ul><li>Examples include: transport, normal, utility, acrobatic, limited, restricted, and provisional</li></ul></li></ul>"	FAR
+Describe category as it relates to both certification of airmen and aircraft	"<ul><li>As used concerning the certification, ratings, privileges, and limitations of <span style=""color: rgb(255, 251, 0);""><u><b>airmen</b></u></span>, means a broad classification of aircraft<ul><li>Examples include: airplane; rotorcraft; glider; and lighter-than-air</li></ul></li><li>As used concerning the certification of <b><u><span style=""color: rgb(255, 251, 0);"">aircraft</span></u></b>, it means a grouping of <span style=""color: rgb(255, 255, 255);"">aircraft</span> based upon intended use or operating limitations<ul><li>Examples include: transport, normal, utility, acrobatic, limited, restricted, and provisional</li></ul></li></ul>"	FAR
 Describe class as it relates to both certification or airmen and aircraft	"<ul><li>As used concerning the certification, ratings, privileges, and limitations of <span style=""color: rgb(255, 251, 0);""><u><b>airmen</b></u></span>, means a classification of aircraft within a category having similar operating characteristics<ul><li>Examples include: single engine; multiengine; land; water; gyroplane, helicopter, airship, and free balloon</li></ul></li><li>As used concerning the certification of <b><u><span style=""color: rgb(255, 251, 0);"">aircraft</span></u></b>, it means a broad grouping of aircraft having similar characteristics of propulsion, flight, or landing<ul><li>Examples include: airplane, rotorcraft, glider, balloon, landplane, and seaplane</li></ul></li></ul>"	FAR
 Describe type as it relates to both certification or airmen and aircraft	"<ul><li>As used concerning the certification, ratings, privileges, and limitations of <span style=""color: rgb(255, 251, 0);""><u><b>airmen</b></u></span>, it means a specific make and basic aircraft model, including modifications that do not change its handling or flight characteristics.&nbsp;<ul><li>Examples include: 737-700, G-IV, and 1900</li></ul></li><li>As used concerning the certification of <b><u><span style=""color: rgb(255, 251, 0);"">aircraft</span></u></b>, it means those aircraft that are similar in design.&nbsp;<ul><li>Examples include: 737-700 and 737-700C; G-IV and G-IV-X; and 1900 and 1900C</li></ul></li></ul>"	FAR
 AC 00 covers what information?	General info&nbsp;	AdvisoryCirculars
@@ -207,7 +145,6 @@ AC 60 covers what information?	Airmen	AdvisoryCirculars
 AC 70 covers what information?	Airspace	AdvisoryCirculars
 AC 90 covers what information?	Air Traffic and General Operating Rules	AdvisoryCirculars
 TRSA	A TRSA is a Terminal Radar Service Area where participating aircraft can receive radar services. Purpose is to provide seperation between all IFR and participating VFR aircraft. Participation is optional for VFR aircraft but highly encouraged. Example: Palm Springs, CA is covered by a TRSA.&nbsp;	Acronym Airspace
-It is requested that aircraft do not fly within x,xxxft of these designated land areas. What are these land areas called?	2,000ft of a Special Conservation Area (like a wildlife refuge)	Airspace SUA
 Time between the end evening civil twilight and the beginning of morning civil twilight is considered what time and when is it used?	Night definition when logging night time&nbsp;	FAR
 What is the definition of night which is used to log night flying time?	Time between the end evening civil twilight and the beginning of morning civil twilight&nbsp;	FAR
 250 KIAS is the speed limit in what airspaces?	Below 10,000ft MSL, within the Class B	FAR
@@ -216,59 +153,26 @@ How are special flight permits obtained and what is their use?	FSDO or DAR (desi
 How should your approach differ at night vs day?	The approach should be conducted the same regardless	
 How does true airspeed (TAS) change in relation to indicated airspeed (IAS) as altitude increases	TAS will increase compared to IAS due to reduced pressure with altitude<br>(for every 1000ft, TAS increases approx. 2% over IAS)	
 What is&nbsp;indicated airspeed of an aircraft corrected for position and instrument error. Will be equal to TAS in standard atmosphere at sea level.&nbsp;	Calibrated airspeed. Will be unique to every individual airplane and should be noted in the aircrafts POH.&nbsp;	
-What is a standard day? (both temps and both pressures)	15C and 59F<br>29.92 inHG (inches of mercury) and 1013 hPa (hectopascales, originally millibars)	Weather
 Define true airspeed	Speed at which the airplane is actually moving through the air.&nbsp;	instruments
 Define indicated airspeed&nbsp;	Indicated airspeed is the speed which is read directly from the airspeed indicator.&nbsp;	instruments
-Typical dimensions of Class B	No typical dimensions. Refer to sectional&nbsp;	Airspace
 ELT transmission frequencies? When may an ELT be tested?	121.5 (analog, guard freq)<br>243.0 Mhz (analog)<br>406.0 Mhz (new)<br><br>First 5 minutes past the hour, 3 sweeps only.	FAR
 Absolute altitude	Height above the surface&nbsp;	FAR
 Indicated altitude&nbsp;	Altitude read directly from the altimiter	FAR
-What sense does your brain rely on primarily when receiving conflicting information from your senses?	Vision, what you can see	Medical
-What is spatial disorientation?	Spatial disorientation is a state of temporary spatial confusion that results from misleading information being sent to the brain from various sensory organs.	Medical
-How might spatial disorientation occur in flight?	When visibility is limited, the brain will try to rely on other sensory inputs. The ear may not be reliable as fluid movement in the ear may not coorespond with the movement of the aircraft. This may result in the pilot *feeling* like the airplane is in a steep turn or sharp bank when in fact the airplane is straight and level.&nbsp;	Medical
-Define graveyard spiral	If descending during a coordinated, constant rate turn that has ceased stimulating the inner ear, the motion sensing system can create the illusion of being in a descent with the wings level. A disoriented pilot will pull back on the controls, tightening the spiral and increasing the loss in altitude.&nbsp;	Medical
 Notify the FAA of an address change within?	30 days	FAR
 Required items in posession to act as PIC	License&nbsp;<br>Medical<br>Photo ID	FAR
 AHRS. Describe	Attitude and Heading Reference System. Used to supply attitude and heading information to digital instrumentation. Uses sensors to measure angular rate, acceleration and earths magnetic field.&nbsp;	G1000 instruments
-Name the types of fog	Radiation: Ground cools the air during cool, calm nights<br>Advection: Warm, humid air over cold surfaces like frozen lakes, rivers<br>Upslope: Warm, moist air cooled adiabatically (up a slope race by rising air)<br>Frontal: Forms in frontal zone rainfalls from warm air into cold air&nbsp;<br>Steam: Occurs when cold air moves over warm water&nbsp;&nbsp;	Weather
-Define windshear. Places where it occurs	Wind shear is an area where two wind changes speed/direction rapidly causing a change in flight characteristics.<br>1. Low level temperature inversion<br>2. Front or thunderstorm (microburst)<br>3. Clear air as a result of strong circulation/rotor&nbsp;	Weather
-Types of briefings	Standard - Request when flight planning and haven't received a briefing yet<br>Abbreviated - Request when you only need to supplement information from other sources, update current briefing, or when you need only a few items<br>Outlook - Departure is more than 6 hours out. For flight planning only&nbsp;	Weather
-Featureless terrain illusion	This illusion can affect a pilot who approaches a well lit runway surrounded by a dark, featureless landscape. Pilots may think they are higher than they really are. A pilot suffering from this illusion will fly a lower approach.&nbsp;	
-What items should a pilot have on board for a night flight? (general items, non 91.205)	Aeronautical charts<br>Head lamp (red)<br>Spare batteries for head lamp&nbsp;	
+What items should a pilot have on board for a night flight? (general items, non 91.205)	Aeronautical charts<br>Head lamp (red)<br>Spare batteries for head lamp&nbsp;<br>Flashlight	
 91.205	Instrument and equipment requirements for standard category, powered aircraft.&nbsp;	FAR
 Position lights are required to be on from when to when? Associated FAR?	Sunset to sunrise. 91.209, Aircraft lights&nbsp;	91 FAR
 What is required of an aircraft operated in close proximity to a night operations area? (3 items) Associated FAR?	1. Be clearly illuminated<br>2. Have lighted position lights<br>3. Be in an area marked by obstruction lights<br>91.209 Aircraft lights	91 FAR
 Are anticollision lights required at night? Explain. Associated FAR?	Yes, however pilots may toggle the anticol lights as the PIC deems nevessary in the name of safety. i.e. to avoid blinding other pilots. 91.209	91 FAR
-Physical dimensions class D	Typically, SFC-2500, 4nm radius&nbsp;	Airspace
-Physical dimensions of class G	Class G is everywhere that is not controlled. Usually starts at the surface and extends up to 1200ft AGL or 14,500 MSL depending on area.&nbsp;	Airspace
-Physical dimensions of class E	Everywhere that isn't occupied by other airspace.&nbsp;	Airspace
-Define E blue vignette&nbsp;	1200ft floor class E abutting class G	Airspace
-Define E magenta vignette&nbsp;	700ft floor class E	Airspace
-Define magenta dotted line	Floor of controlled airspace class E	Airspace
 NWKRAFT	Notams<br>Weather<br>Known ATC delays<br>Runway lengths<br>Alternate<br>Fuel<br>Takeoff and landing distances	Acronym
-No person my operate an acrobatic aircraft when the visibility is less than	3 miles. 91.303	91 Weather
-30.11 to 29.96 change in the altimeter setting will indicate a higher or lower altitude? How many ft?	Altimeter will indicate 150ft lower	Weather
-What precip has the highest accumulation rate on control surfaces 	Freezing rain	Weather
-What are the three stages of a thunderstorm?	developing, mature and dissipating&nbsp;	Weather
 What does the outbound destination sign identify?	Direction to takeoff runways	
 Hypoxia	Is a state of oxygen deficiency in the body to impair functions of the brain and other organs	
 PPPPP or 5P	Plan<br>Plane<br>Pilot<br>Passengers<br>Programming<br>	Acronym
 ANDS	Magnetic errors<br>Accelerate North Decelerate South (applies in Northern hem only)&nbsp;<br>(An acceleration will see a compass deviation towards the north. A deceleration will see compass deviation towards the north.)	Acronym
 <div>With respect to the certification, privileges, and limitations of airmen, what do category, class, and type mean?&nbsp;</div>	<div>(61.5)&nbsp;</div><div>- Category: Airplane, Rotorcraft, Glider, Lighter-Than-Air etc.&nbsp;</div><div>- Class: Single Engine Land/Sea, Multi Engine Land/Sea&nbsp;</div><div>- Type: specific to aircraft – only required for aircraft with a max gross weight equal or greater than 12,500lbs, turbojet, or any aircraft specified by the FAA to require one&nbsp;(61.31)&nbsp;</div>	
 <div>If a pilot changes his permanent mailing address, how long can the pilot continue to exercise the privileges of their pilot certificate without notifying the FAA?&nbsp;</div>	<div>(61.60)&nbsp;</div><div>30 days&nbsp;</div>	
-Engine failure during flight, in-flight restart procedure (archer)	Airspeed - Vg<br>Fuel Selector - Switch tanks or fullest tank<br>Fuel Pump - On <br>Mixture - Rich<br>Carb Heat - On <br>Mags - Off then On	memory-items pa28 POH
-Engine failure immediately after takeoff (Archer III)	"Airspeed…………………………..76 KIAS
-<br>Mixture ………………..……IDLE CUTOFF
-<br>Magnetos Switch …………..………….OFF
-<br>Flaps..AS REQUIRED (Full Recommended)
-<br>Emergency Battery...………….……….OFF
-<br>Battery and Alternator.........................OFF
-<br>Cabin Door………………..……. UNLATCH
-<br>Land...………………...STRAIGHT AHEAD"	memory-items PA28_POH
-Engine fire during start (Archer III)	"Starter…………..CONTINUE CRANKING
-<br>Mixture.……………..……...IDLE CUTOFF
-<br>Throttle………………………………OPEN
-<br>Fuel Pump……………………………..OFF <br>Fuel Selector………………………….OFF"	memory-items PA28_POH
 Engine fire in flight (Archer III)	"Fuel Selector………………………….OFF
 Throttle…………………………...CLOSED
 <br>Mixture ……………..……...IDLE CUTOFF
@@ -278,59 +182,10 @@ Heater/Defroster……………………...OFF
 INCREASE AIRSPEED WITHIN LIMITS
 THAT WILL PROVIDE INCOMBUSTIBLE
 MIXTURE**"	memory-items PA28_POH
-Electrical fire in flight procedure (Archer III)<br>What telltale sign points to an electrical fire?	"Smoke in the cabin is usually the telltale sign of an electrical fire.<br><br>Emergency Battery……….VERIFY ARM
-<br>Battery Master………………………..OFF
-<br>Alternator Switch…………………….OFF
-<br>Vents…………………………………OPEN
-Heater/Defroster……………………..OFF
-Fire…………………………..EXTINGUISH
-<br>Emergency Descent………..IF NEEDED
-<br>Land as soon as possible"	memory-items PA28_POH
-Wing fire in flight (Archer III)	"Exterior Lights…..………………..ALL OFF
-<br>Pitot Heat Switch……………………....OFF
-<br>Perform Sideslip to keep flames away
-from fuel tank and cabin"	memory-items PA28_POH
-Explain the instruments which are run off the vacuum system. What drives this system?	The attitude indicator and the directional gyro. The vacuum pump is engine driven.&nbsp;	PA28_POH
-The archer is a ___ volt system&nbsp;	28	PA28_POH
-The battery is ___ volts and used for starting and backing up alternator output.&nbsp;	24	PA28_POH
-Electrical power is supplied by a ___ amp alternator	70	PA28_POH
-What are the standard electrical accessories included with the Archer?	Starter, fuel pump (elec), engine primer, stall warning horn, ammeter, and the annunciator panel	PA28_POH
-With the engine running, the digital ammeter displays what?&nbsp;	The load placed on the alternator&nbsp;	PA28_POH
-With all electrical equipment off (except the battery master switch) the ammeter will display what?	The amount of charging current demanded by the battery&nbsp;	PA28_POH
-Explain the difference between a loadmeter and an ammeter.	A loadmeter instrument displays a 0 to 60 scale which indicates the load placed on the generating capacity of the electrical system by the electrical accessories and battery. An ammeter is used to show the electrical generating performance of the alternator/generator system of the aircraft.&nbsp;	PA28_POH
 The aircraft is powered off, with only the master switch turned on. What should the loadmeter display?	With all electrial components turned off, the loadmeter reflects only the amount of charging current demanded by the battery.	PA28_POH
-If an ammeter shows a positive number, what does that indicate?&nbsp;	It shows the charging rate of the battery	PA28_POH
-A full scale positive deflection of the ammeter shows what?	Probable malfunction of the voltage regulator	PA28_POH
-A full scale negative deflection of the ammeter shows what?	Probable failure of the alternator.&nbsp;	PA28_POH
-In normal operations, an ammeter should indicate what on its display?	A zero indication&nbsp;	PA28_POH
-Your ammeter shows a negative value while in flight, what does this mean?	Your battery is discharging!	PA28_POH
-What type of vacuum pump is on the airplane?	The airplane has an engine driven, dry type vacuum pump. This dry type pump eliminates the need for an air/oil seperator&nbsp;	PA28_POH
-You notice a lower than usual vacuum indication, what could this mean?	may indicate a dirty filter, dirty screens, possibly a sticking vacuum regulator or leak in system	PA28_POH
-Zero vacuum pressure could indicate what?	sheared pump drive, defective pump, collapsed line or defective gauge.&nbsp;	PA28_POH
-Normal vacuum suction should be what in inches of mercury (inHg)?	4.8 to 5.2 inHg	PA28_POH
-Higher than normal vacuum suction could do what to your vacuum instruments? How about lower than normal suction?	Higher suction could cause damage to vacuum instruments. Lower than normal suction would make vacuum instruments unreliable.&nbsp;	PA28_POH
-The turn indicator is what kind of powered instrument? (Archer III)	Electrical	PA28_POH
-What instruments rely on the pitot tube?	Airspeed indicator	PA28_POH
-What are the static instruments?	Airspeed indicator, vertical speed indicator, altimeter&nbsp;	PA28_POH
-Describe the alternate static source feature of the aircraft? What is it? Where is it located? What are the considerations for its use?	Alternate static source is a way of bypassing the exterior static source and using one which is located inside the aircraft. The cabin window and cabin vents must be closed and the cabin heater and defroster must be on! The altimeter will show a slightly higher altitude, but this error is less than 50ft unless otherwise placarded. ASI will indicate an airspeed greater than actual.&nbsp;	PA28_POH
-Where are the pitot/static ports on the aircraft? (Archer III)	They are all located on the pitot head (or pitot static mast) under the left wing. This head contains both the inlet for ram air at the front and two holes on the bottom and side for statis pressure reading.&nbsp;	PA28_POH
-Describe the comm antenna(s) on the aircraft and where they are.&nbsp;	Comm antennas are usually located on the top (comm 2) and/or bottom (comm 1) of the fuselage. They are usually long and skinny and, in the case of a bottom mounted antenna, will be bent to ensure adequate clearance from objects on the ground.&nbsp;	PA28_POH
-Describe the VOR antennas on the aircraft.&nbsp;	They are located on the vertical stabalizer in a horizontal V formation and provide VOR tracking.&nbsp;	PA28_POH
-Describe the transponder antenna.&nbsp;	Types vary widly but can be a small, several inch long antenna rod sticking out from below the aircraft or a shark fin type antenna.&nbsp;	PA28_POH
-Describe the shape and location of GPS receivers.	Almost always low profile, flush mount devices located at the top of the fuselage allowing for the best possible exposure to the sky.&nbsp;	PA28_POH
-In the case of the Archer III, what kind of alternate vacuum pump is provided and where is the switch located?	"An electrical aux vacuum pump is provided in case the engine driven pump fails or becomes unreliable. The aux vac button is located on the left side of the panel and shows ""VAC OFF"" and ""AUX ON"""	PA28_POH
-What is the purpose of having seperate alternator and battery switches?	In some cases, you may wany to exclude power being provided from an alternator with a faulty voltage regulator to prevent damage to avionics. Conversely, with a fauly battery experiencing thermal runaway, you may want to cut it off from the electrical system.	PA28_POH
 Explain the Archer II and Archer III electrical volts and amps respectively. What voltage is the battery?	Archer II is a 14 volt, 60 amp system. The Archer III is a 28 volt, 70 amp system. The battery is 24 volt.&nbsp;	PA28_POH
-How is heat generated for the cabin?	Using a heater muff attached to the exhaust.&nbsp;	PA28_POH
 When can a test of the ELT system be made and how many sweeps are permitted? How can you check to see if your ELT is activated?	Within the first 5 minutes of any hour. 3 sweeps only. Tune to 121.5 and listen for a downward sweeping tone.&nbsp;	FAR
-Max capacity of the baggage area is ___ (Archer)	200 lbs	PA28_POH
-Anytime maintenance is being performed on the aircraft, an entry in the meintenance records must be made. This entry should include:	<ol><li>A description of the work</li><li>Date completed</li><li>Name of the person who performed the work</li><li>Name, certificate number, kind of certificate and signature of the person approving the work for return to service. (43.9)</li></ol>	43 FAR PA28_POH
-Usable fuel capacity at the bottom of the tabs is (Archer)	17 gallons per side	PA28_POH
-The electric fuel pump should be on during (Archer):	Takeoff, landing and while switching tanks (POH)	PA28_POH
-The three landing gear struts are of what type?	Air-oil type struts	PA28_POH
-The toe brakes and hand brake have seperate what? They share what? (Archer)	Seperate brake cylinders. They share a common reservoir.&nbsp;	PA28_POH
 List the categories as it pertains to the certification of aircraft	transport, normal, utility, acrobatic, limited, restricted, and provisional	FAR
-Power off landing procedure (according to POH, Archer)	<div style='text-align: left;'> <br>ABCDE<br><br>Touchdowns should normally be made at lowest possible airspeed with full flaps.<br><br>When committed to landing:<br><br>Flaps ..................................As desired<br>Throttle................................Close<br>Mixture ................................idle cut-off<br>Magnetos.............................OFF<br>Battery Master switch .........OFF<br>ALTR Switch .......................OFF<br>Fuel selector........................OFF<br>Seat belt and harness..........tight	memory-items POH
 Steep turn limitations 	Manufacturer recommended airspeed, or if one is not available, an airspeed not to exceed Va.<br>Roll into coordinated 360° turn at approximately 45° bank. <br>Maintain entry altitude +/- 100ft<br>Airspeed +/- 10kts<br>Bank +/- 5°<br>Roll out on entry heading +/- 10°	ACS Maneuvers
 Is it legal to fly on a dealers registration after a buyer purchased an aircraft from that dealer? 	No, the new owner must register the aircraft. The dealer will then fill out the back of the dealer registration card and mail back to the FAA. 	FAR
 What are the alcohol regulations for pilots cited in 91.17?	No flying within 8 hours from alcohol consumption<br>No more than .04 BAC	91 FAR
@@ -357,9 +212,7 @@ VSO, +10/-5 knots with gust factor applied</div><div>&nbsp;Touchdown within 200f
 </div>
 </div></div>"	ACS Maneuvers
 Steep turn procedure per ACS	CLEARING TURNS<br>Maintain airspeed not to exceed Va (2200rpm is good in the Archer)<br>Roll into a coordinated 360deg at approxamately 45deg bank<br>Perform the task in the opposite direction<br>Maintain the entry altitude +/-100ft, +/-10kts, +/-5deg bank, roll out onto the entry heading +/-10deg&nbsp;<br>	ACS Maneuvers
-What is the purpose of ground reference maneuvers?	to train pilots to accurately place the airplane in relationship to specific references and maintain a desired ground track	ACS Maneuvers PHAK
 Ground reference maneuvers key items per ACS	CLEARING TURNS<br>All 3 ground reference maneuvers (Rec course, S-Turns, Turns around a point) should be executed between 600-1000ft AGL<br>Wind drift correction is a key aspect of the maneuver&nbsp;<br>Maintain altitude +/- 100ft, +/-10kts	ACS Maneuvers
-Daytime VFR required equipment 	"<div style=""text-align: left;""> <br>91.205<br>Compass<br>Airspeed indicator <br>Altimeter <br><br>Tachometer<br>Oil pressure<br>Oil temperature <br>Manifold pressure <br>temperature <br><br>Fuel level gauge <br>Anti Collision light <br>Gear position indicator <br>ELT <br>Seatbelts <br></div>"	91 FAR memory-items
 A pilot must furnish their certificate, medical and photo ID if prompted by:	" <div style=""text-align: left;""> <br>61.3<br>1. The administrator (FAA)<br>2. Any federal, state or local law enforcement officer <br>3. An authorized rep of the NTSB<br>4. An authorized rep of the TSA<br></div>"	
 What documents must you have on your person to act as PIC? (61.3)	Pilot certificate<br>Medical certificate<br>Gov issued photo ID	61 FAR gleimPPL gleimPPLch1
 What privileges and limitations apply to private pilot? (61.113)	Privileges – Act as PIC and carry passengers<br>Limitations – Cannot fly for hire; must pay no less than pro rata share	61 FAR
@@ -374,57 +227,13 @@ With respect to the certification, privileges, and limitations of airmen, what d
 If a pilot changes his permanent mailing address, how long can the pilot continue <br>to exercise the privileges of their pilot certificate without notifying the FAA? (61.60)	30 days	61 FAR PPOEG(rev.ii)
 Does an Airworthiness Certificate ever expire?	Not as long manufacturer's original design is adhered to	FAR PPOEG(rev.ii)
 Who is responsible for ensuring an aircraft is maintained in an airworthy <br>condition? (91.403)	The owner/operator	91 FAR PPOEG(rev.ii)
-What are the required inspections? (91.409)	AVIATES<br>Annual – every 12 calendar months<br>VOR – 30 days for IFR<br>100 hour if airplane is for hire<br>Altimeter/Pitot Static – 24 calendar months<br>Transponder – 24 calendar months<br>ELT – 12 calendar month. Battery must be replaced or recharged after 1 hour cumulative use or <br>half of battery life<br>Service bulletins and ADs complied with	91 FAR PPOEG(rev.ii)
-What is an Airworthiness Directive? Is it mandatory? (PHAK 8-12)	FAA issued order to fix a known issue. It is mandatory. The AD will contain more information regarding whether it expires, is a one time compliance or is recurring. 	PHAK PPOEG(rev.ii)
+What are the required inspections? Provide FAR. 	91.409<br>AV1ATES<br>- Annual – every 12 calendar months<br>- VOR – 30 days for IFR<br>- 100 hour if airplane is for hire<br>- Altimeter/Pitot Static – 24 calendar months<br>- Transponder – 24 calendar months<br>- ELT – 12 calendar month. Battery must be replaced or recharged after 1 hour cumulative use or half of battery life<br>- Service bulletins and ADs complied with	91 FAR PPOEG(rev.ii)
 Can you over fly an annual? 100 hour? (91.409)	Annuals cannot be overflown. You can overfly a 100 hour by up to 10 hours if the aircraft is <br>enroute to a place to have the inspection completed.	91 FAR PPOEG(rev.ii)
 Is there any way to fly an aircraft that is not legally airworthy?	Obtain special flight permit from the FSDO	FAR PPOEG(rev.ii)
 Do you need to have an ELT in the airplane today? (91.207)	Not needed for training within 50 nm of home airport	91 FAR PPOEG(rev.ii)
 Can you fly an airplane with known inoperative equipment? (91.213)	If it were not required for the flight (per the aircraft’s equipment list or the FARs), you must<br>deactivate or remove the component and placard it inoperative (deactivating could be as simple as pulling the circuit breaker out and locking it out with a zip tie)	91 FAR PPOEG(rev.ii)
 What is a Minimum Equipment List? (PHAK 8-9)	An FAA approved list of equipment that can be inoperative	PHAK PPOEG(rev.ii)
-Can an aircraft owner change an MEL?	If a change is sought, a letter and a proposed MEL that is based off of the Master MEL must be <br>sent to the FAA for approval	PHAK PPOEG(rev.ii)
-Where can more info be learned about basic med?	AC68-1A	AdvisoryCirculars Medical
-Hypoxic hypoxia	is the result of insufficient oxygen available to the body as a whole	gleimPPL Medical
-Hypemic hypoxia	occurs when the blood is not able to take up sufficient oxygen and transport it around the body. (example is CO poisoning)	gleimPPL Medical
-Stagnant hypoxia	results when oxygen rich blood in the lungs is not moving (example is pulling excessive Gs)	gleimPPL Medical
-Histotoxic hypoxia	is the inability of cells to effectively use oxygen (example, impairment due to drugs or alcohol)	gleimPPL Medical
-Hypoxia symptoms	"Can start off with euphoric, ""high"" feeling followed by headache, visual impairment, slurred speech, delayed reaction and eventually unconsciousness. Must reduce altitude immediately and/or affix supplemental oxy (ABO)."	gleimPPL Medical
-Hyperventilation	caused by breathing too rapidly, reducing too much CO2 while retaining too much O2 in the body. Can cause dizziness, neusea. Slow breathing or breathe into a bag.&nbsp;	gleimPPL Medical
-Spacial disorientation	Caused by relying solely on ones senses of climbing, descending or turning without regard to visual cues or instrumentation. Very easy to allow to happen. Must fight the urge to fly the airplane by what the pilot feels through the seat and instead rely on instrumentation.&nbsp;	gleimPPL Medical
-Carbon Monoxide (CO)	is a colorless, odorless gas which easily replaces O2 within the blood and body. Extremely dangerous to pilots as it binds to O2 receptors meaning it takes time to recover from CO poisoning. If the smell of exhaust is present or a CO detector is tripped, its imparative to get on the ground as soon as possible.&nbsp;	gleimPPL Medical
-What effect does haze have on the ability to see traffic or terrain?	All traffic or terrain features appear to be farther away than their actual distance	gleimPPL Medical
-Duck-under syndrome is	the tendancy to descend below minimums during an approach with the belief that there is always a fudge factor built in to the approach system. refers to IFR approaches primarily	gleimPPL IFR Medical
-The 5 hazardous attitudes are	AIIMR<br>Anti-authority, impulsivity, invulnerability, macho and resignation	gleimPPL Medical
-Anti-authority antidote	Follow the rules	ADM gleimPPL Medical
-In ADM, what is the first step in neutralizing a hazardous attitude?	recognizing hazardous thoughts	ADM gleimPPL Medical
-Impulsivity antidote	Not so fast, think first	ADM gleimPPL Medical
-Invulnerability antidote	It could happen to me	ADM gleimPPL Medical
-Macho antidote	Taking chances is foolish	ADM gleimPPL Medical
-Resignation antidote	I am not helpless	ADM gleimPPL Medical
-MOA, CFR, Restricted Area, Prohibited Area are all examples of what?	SUA or Special Use Airspace	AIM Airspace
-Regulatory special use airspace includes	restricted and prohibited airspace	AIM Airspace
-Non-regulatory special use airspace includes:	Military operations areas (MOA), controlled firing areas (CFA), warning areas, alert areas and national security areas (NSA)	AIM Airspace
-Where can information be found about TFRs, temporary MOAs and temporary restricted areas?	Consult the Domestic Notices found within the Federal Notam System (FNS). You can also consult the FAA SUA website or ask the controlling ATC agency.&nbsp;	AIM Airspace
-When is flight into a Prohibited Area permitted?	Never 3-4-2	AIM Airspace
-Describe a Restricted Area	Restricted areas contain airspace identified by an area on the surface of the earth within which the flight of aircraft, while not wholly prohibited, is subject to restrictions. Restricted areas denote the existence of unusual, often invisible, hazards to aircraft such as artillery firing, aerial gunnery, or guided missiles. Penetration of restricted areas without authorization from the using or controlling agency may be extremely hazardous to the aircraft and its occupants. 3-4-3	AIM Airspace
-Is flight into restricted airspace permitted?	Only when permitted by a controlling agency is flight into or within a restricted airspace permitted. 3-4-3 91.133	91 AIM Airspace FAR
-Military Operations Area entry requirements for VFR aircraft	A MOA is considered joint use airspace in that VFR aircraft are permitted but should exercise extreme caution.&nbsp;	AIM Airspace
-Describe the following military training route as seen on a sectional: (VR) 1205	This would be a VFR MTR where no altitude segment extends above 1500ft AGL.&nbsp;	AIM Airspace
-Describe the following military training route as seen on a sectional: (IR) 120	IR is an IFR MTR where operating altitudes for participating aircraft extend above 1500ft AGL.&nbsp;	AIM Airspace
-Describe a TRSA	A Terminal Radar Service Area is a type of airspace where radar services are provided to all participating VFR aircraft. Participation is not required of VFR aircraft but is strongly encouraged as the TRACON can provide seperation between aircraft. Example: Palm Springs	AIM Airspace
-Standard temperature and pressure values for sea level	15C or 59F. 29.92 inHg or 1013 hPa/mb	Weather
-Describe torque in general terms and how it affects aircraft. 	Torque is the twisting force about an axis. As the prop spins clockwise (from pilot perspective), the airplane experiences a rotating force in the opposite direction. The airplane wants to roll left. The wings help dampen this force. Torque increases with an increase in power. 	PHAK
-Describe the siraling slipstream	When the propeller rotates, it creates a spiraling current of air that travels down and around the fuselage. This air eventually reaches the left side of the rudder causing a yaw to the left. The force becomes stronger the more power is applied. 	PHAK
-Describe an airfoil 	An airfoil is a streamlined body which is capable of creating significantly more lift than drag.	PHAK
 Describe P factor 	P factor is an effect, most pronounced at higher nose attitudes and power settings, where the downward propeller is producing more thrust than the upward propeller. This is because the downward propeller blade has a higher angle of attack than the upward propeller blade when the nose is raised. 	PHAK
-Describe gyroscopic precession 	Gyroscopic precession is a force experienced by a rapidly rotating propeller which acts as a sort of gyroscopically stabilized disk when spun. When a single-engined airplane turns to the left, the nose tends to dip; when the turn is to the right, the gyroscopic effect tends to raise the nose. Conventional airplanes experience this force more than tricycle airplanes.	PHAK
-The radius of the procedural Outer Area of Class C airspace is normally:	20nm	Airspace
-What kind of drag is produced when an aircraft is producing lift?	Induced drag. The more lift, the more induced drag.	Aerodynamics
-This type of drag is unrelated to lift and can come in the form of skin friction drag, form drag, or interference drag.	Parasite drag	Aerodynamics
-This kind of drag is a type of parasite drag caused by rough spots on the skin of the plane. Anything that takes away from a clean, smooth, perfectly aerodynamic surface causes skin friction drag.	Skin friction drag	Aerodynamics
-A buildup of ice, frost or snow on the wings causes what kind of drag about the wing surface?	Skin friction drag	Aerodynamics
-This type of drag is a type of parasite drag caused simply by the overall shape of the plane and how that shape interacts with the airflow. Some shapes are more aerodynamic than others, and the more cleanly the plane slices through the air, the less drag it will create.	Form drag	Aerodynamics
-{{c1::Interference}} drag is a type of parasite drag which is caused by the interaction between the airflow about the airplane and how that airflow interacts with wing struts, gear struts, flight surface affixment points etc. The total amount of drag generated is greater than it would be individually. Interference drag is greatest in areas with sharp angles like where the wing strut meets the fuselage or the underside of the wing as well as where the wings themselves attach to the fuselage.		Aerodynamics
-Define UPRT	Upset Prevention and Recovery Training	Acronym Aerodynamics
 The FAA considers an {{c1::upset}} to be an event that unintentionally<br>exceeds the parameters normally experienced in flight or training. These parameters are:<br><br>1. Pitch attitude greater than {{c2::25°}}, nose up<br>2. Pitch attitude greater than {{c3::10°}}, nose down<br>3. Bank angle greater than {{c4::45°}}<br>4. Within the above parameters, but flying at {{c5::airspeeds}} inappropriate for the conditions		AFH
 LOC-I	Loss Of Control Inflight	Acronym AFH
 The top four causal and contributing factors that have led to an upset and resulted in LOC-I accidents are:<br><br>1. {{c1::Environmental}} factors<br>2. {{c2::Mechanical}} factors<br>3. {{c3::Human}} factors<br>4. {{c4::Stall-related}} factors		AFH
@@ -433,34 +242,214 @@ Some examples of {{c1::environmental}} factors (with respect to aircraft upsets 
 Some examples of {{c1::human}} factors (with respect to aircraft upsets and LOC-I) include:<br><br>{{c2::VMC}} to {{c3::IMC}}<br>{{c4::IMC}}<br>Diversion of {{c5::attention}}<br>Task {{c6::saturation}}<br>{{c7::Sensory}} overload<br>{{c8::Spatial}} disorientation<br>{{c9::Surprise}} and {{c10::startle}} response		AFH
 {{c1::Flicker}} vertigo is an aeromedical phenomena that affects helicopter and propeller driven airplane pilots. It is caused by a flashing effect produced by a spinning rotor or prop interrupting a light source.&nbsp;		AFH Illusions
 {{c1::G-Excess Effect}} results from the excessive effect of the net G Force and can create a false perception of changing aircraft {{c2::attitude}}, either {{c3::pitch}} or {{c4::bank}}, depending on {{c5::head}} position.&nbsp;		AFH Illusions
-{{c1::Giant Hand Illusion}} is a poorly understood phenomena where a pilot is under the false sensation of being unable to control the aircraft control systems as if a giant hand is resisting the pilots inputs and can be totally incapacitating. Causes may include increased {{c2::anxiety}}, task {{c3::saturation}}/distraction or increase {{c4::G forces}}. Help break the illusion by releasing the {{c5::controls}} momentarily, flying with the {{c6::thumb and forefinger}}, or fly with the {{c7::opposite}} hand.		AFH Illusions
 {{c1::Vx}} or {{c2::best angle speed}}, is the speed with which the airplane will {{c3::gain the most altitude}} in the {{c4::shortest distance}}. {{c5::64}} KIAS (Archer)		Vspeeds
-This component of lift makes an airplane turn	horizontal	Aerodynamics AFH gleimPPL
-The ___ controls an airplane about its vertical axis	rudder	Aerodynamics AFH gleimPPL
-The elevator changes the pitch about the ___ axis	lateral	Aerodynamics AFH gleimPPL
-Gliders, balloons and aircraft originally certificated without an engine driven electrical system are exempt from this transponder requirement:	Mode C veil requirement. But they are still subject to remain outside A, B, C airspace, under 10,000ft MSL and outside airspace overlying B, C airspace up to 10,000ft msl.&nbsp;	Airspace
 Flaps, slats (leading edge devices), spoilers, trim surfaces are examples of	Secondary flight control surfaces	Aerodynamics AFH gleimPPL
-The 4 forces of flight are at equillibrium when the airplane is&nbsp;	in unaccelerated flight	Aerodynamics AFH gleimPPL
-Define bernoullis principle&nbsp;	The internal pressure of a fluid (liquid or gas) decreases with the flow rate of that fluid. High speed flow is associated with low pressure, low speed flow is associated with high pressure.&nbsp;	Aerodynamics AFH gleimPPL
-Angle of attack is&nbsp;	the relationship between the relative wind and the wings chord line	Aerodynamics AFH gleimPPL
-The ___ at which a wing stalls remains the same regardless of weight, airplane loading, airspeed etc. This is also called the critical ____	angle of attack	Aerodynamics AFH gleimPPL
-An airplane can stall at any airspeed or altitude but only one ___	critical angle of attack&nbsp;	Aerodynamics AFH gleimPPL
-List types of turning tendencies <br><br>{{c1::Torque}}<br>{{c2::Spiraling slipstream}}<br>{{c3::P-Factor}}<br>{{c4::Gyroscopic precession}}		Aerodynamics AFH
+To act as PIC of an aircraft carrying passengers, the pilot must have made at least three takeoffs and landings in the same category, class and, if applicable, type within the preceeding {{c1::90}} days		61 FAR gleimPPL gleimPPLch1
+Recent flight experience is covered in part 61.{{c1::57}}		61 FAR gleimPPL gleimPPLch1
+If recency experience requirements for night are not met and official sunset is 7:43pm, the latest time passengers may be carried is {{c1::8:42pm}}		61 FAR gleimPPL gleimPPLch1
+To act as PIC of an aircraft carrying passengers, the pilot must have made three takeoffs and landing within the preceeding 90 days in an aircraft of the same {{c1::category, class and, if a type rating is required, type}}		61 FAR gleimPPL gleimPPLch1
+To act as PIC of an aicraft carrying passengers, the pilot must have a logbook endorsement showing the completion of a flight review in the preceeding {{c1::24 months}}		61 FAR gleimPPL gleimPPLch1
+What is the definition of night?	The time beginning with the end of evening civil twilight and the beginning of morning civil twilight.&nbsp;	61 FAR gleimPPL gleimPPLch1
+Daylight savings time is effective from when to when? What is the time offset from UTC/Zulu to MDT?	March 12th to Nov 5th (UTC -0600)	61 FAR gleimPPL gleimPPLch1
+Standard time is effective from when to when? What is the time offset from UTC/Zulu to MST?	From the first Sunday in November to the second Sunday in March (UTC -0700)	61 FAR gleimPPL gleimPPLch1
+What is the time offset for converting UTC time to Mountain Daylight Time?	-0600	61 FAR gleimPPL gleimPPLch1
+What is the time offset for converting UTC time to Mountain Standard Time?	-0700	61 FAR gleimPPL gleimPPLch1
+What is the difference between MST and MDT?	MST is Mountain Standard Time and is in effect&nbsp;from the first Sunday in November to the second Sunday in March. MDT is Mountain Daylight Time and is in effect when MST is not (effective during the summer)	61 FAR gleimPPL gleimPPLch1
+Takeoffs and landings required to maintain recency in a tailwheel airplane must be done how many times and in what way?	Three times to a full stop&nbsp;	61 FAR gleimPPL gleimPPLch1
+To meet the recency requirements to act as PIC and carry passengers at night (1 hr after sunset to 1 hour before sunrise), the pilot must:&nbsp;	Have completed three takeoffs and landings to a full stop at night in the same category, class and, if applicable, type.	61 FAR gleimPPL gleimPPLch1
+You have accomplished 10 takeoffs and landing in a multi engine land airplane in the last 30 days. Are you current to carry passengers in a single engine airplane? Why or why not?	No, the takeoffs and landings count only towards aircraft of the same category, class and type (if applicable). Multi engine airplanes are the same category as single engine airplanes but a different class (multi vs single).	61 FAR gleimPPL gleimPPLch1
+In order to continue exercising the privileges of your certificate, you have how many days after moving your permanent mailing address to notify the FAA?	30 days <br>61.60	61 FAR gleimPPL gleimPPLch1
+A certificated private pilot may not act as PIC of an aircraft towing a glider unless there is entered in the pilots logbook a minimum of:	100 hours of flight time in the same category, class and, if applicable, type of the aircraft being used to tow the glider	61 FAR gleimPPL gleimPPLch1
+To act as PIC of an aircraft towing a glider, the pilot must have made within the preceding 24 months	At least 3 actual or simulated glider tows while being accompanied by a qualified pilot	61 FAR gleimPPL gleimPPLch1
+A pilot may act as PIC flying under BasicMed under the following conditions:<br><br>Aircraft:<br>Aircraft certificated to carry fewer than {{c1::6}} occupants<br>Aircraft has a gross weight rating of less than {{c2::6000}}&nbsp;lbs<br><br>Operating requirements:<br>Carries not more than {{c3::5}}&nbsp;passengers<br>Operates under {{c4::VFR or IFR}}, within the {{c5::United States}}, at less than {{c6::18,000}}&nbsp;feet&nbsp;MSL, not exceeding {{c7::250}}&nbsp;knots.<br>Flight not operated for {{c8::compensation or hire}}		61 FAR gleimPPL gleimPPLch1
+Where may an aircrafts operating limitations be found if an aircraft has an experimental or special light sport airworthiness certificate?	It will be found attached to the airworthiness certificate<br>91.9	91 FAR gleimPPL gleimPPLch1
+Under what conditions may object be dropped from an aircraft?&nbsp;	If proper precautions are taken to avoid injury or damage to persons or property on the ground&nbsp;<br>91.15	91 FAR gleimPPL gleimPPLch1
+No person may act as a crewmember of an aircraft with a blood alcohol level of	.04 BAC<br>91.17	91 FAR gleimPPL gleimPPLch1
+Under what condition may a pilot allow a person who is obviously under the influence of a drug to be carried aboard an aircraft?	Only in an emergency or if the person is a medical patient under proper care<br>91.17	91 FAR gleimPPL gleimPPLch1
+A person may not act as a crewmember of an aircraft if alcoholic beverages&nbsp; have been consumed by that person within the preceding&nbsp;	8 hours (this is a minimum. you still must be below .04 BAC)<br>91.17	91 FAR gleimPPL gleimPPLch1
+Preflight action, as required for all flights away from the vicinity of an airport, shall include	An alternate course of action if the flight cannot be completed as originally intended<br>91.103	91 FAR gleimPPL gleimPPLch1
+Except when necessary for takeoff and landing, what is the minimum safe altitude for a pilot to operate any aircraft?	An altitude allowing, should the power unit fail, an emergency landing without undue hazard to persons or property on the surface<br>91.119	91 FAR gleimPPL gleimPPLch1
+Except for takeoff and landing, what is the minimum safe altitude for pilots operating over congested areas?	An altitude of at least 1,000ft above the highest obstacle in a 2,000ft radius<br>91.119	91 FAR gleimPPL gleimPPLch1
+Except when necessary for takeoff and landing, a pilot may not operate within what altitude of an person, structure, vehicle or vessel?	500ft&nbsp;<br>91.119	91 FAR gleimPPL gleimPPLch1
+Except for takeoff and landing, what is the minimum altitude a pilot may operate over an area other than congested?	An altitude of 500ft, except over open water or sparsely populated areas, where the pilot must maintain a distance of 500ft from any person, structure, vehicle or vessel.&nbsp;<br>91.119	91 FAR gleimPPL gleimPPLch1
+Minimum altitude anywhere: {{c1::An altitude which, should an emergency landing be necessary, does not bring undue hazard to an person or structure on the surface}}<br>Minimum altitude over congested areas: {{c2::1,000ft over the highest obstacle in a 2,000ft radius of the aircraft}}<br>Minimum altitude over uncongested areas: {{c3::500ft from any person, structure, vehicle or vessel}}<br>Over sparsely populated areas or open water: {{c4::Not within 500ft of any person, structure, vessel or vehicle}}<br>91.119		91 FAR gleimPPL gleimPPLch1
+Are Service Bulletins and Airworthiness Directives the same?	No. Airworthiness Directives are issued by the FAA, Service Bulletins are issued by the manufacturer.	FAR
+Define ANDS	Accelerate North Decelerate South	gleimPPL gleimPPLch2
+Define ONUS	Opposite North Undershoot South<br><br>Overturn the required heading when turning north. Underturn the required heading when turning southerly.&nbsp;	gleimPPL gleimPPLch2
+<div><div>Define magnetic dip errors</div></div>	Magnetic dip creates the most substantial errors in a compass. As you get closer to the North or South Pole, magnetic flux lines point downwards towards the poles, and <b>your compass magnets dip towards the low side of a turn.</b>	gleimPPL gleimPPLch2
+Magnetic deviation is caused by	Magnetic fields produced by the metals and electrical equipment of the aircraft affect compass indication.&nbsp;	gleimPPL gleimPPLch2
+When in flight, when are compass indications accurate?	Only during straight and level unaccelerated flight	gleimPPL gleimPPLch2
+Deviation errors of a magnetic compass are caused by	Certain metals and electrical systems in the aircraft	gleimPPL gleimPPLch2
+If on a {{c1::north/south}} heading, the airplane will not exhibit a turning error if accelerated or decelerated. If on a easterly or westerly heading, if the airplane is {{c2::accelerated}}, the airplane will show a brief turn to the {{c3::north}}. If on an easterly or westerly heading, if the airplane is {{c4::decelerated}}, the airplane will show a brief turn to the {{c5::south}}.&nbsp;		gleimPPL gleimPPLch2
+In the Northern Hemisphere, a magnetic compass will usually indicate a brief turn toward the west if	A right turn is entered from a northerly heading&nbsp;	gleimPPL gleimPPLch2
+In the Northern Hemisphere, the magnetic compass will normally indicate a turn toward the south when	the aircraft is decelerated on an east/west heading&nbsp;	gleimPPL gleimPPLch2
+A turn to the right while on southerly heading will show what on the compass?	The compass will show a turn to the right but at a faster rate than actual&nbsp;	gleimPPL gleimPPLch2
+Accelerate and decelerate compass errors only affect aircraft on what kind of heading?	East/West headings. They do not apply to aircraft on a North/South heading.&nbsp;&nbsp;	gleimPPL gleimPPLch2
+In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the east if	a left turn is entered from a north heading	gleimPPL gleimPPLch2
+The pitot system privides impact pressure for which instrument?	airspeed indicator&nbsp;	gleimPPL gleimPPLch2
+Which instrument will become inoperative if the pitot tube becomes clogged?	airspeed indicator&nbsp;	gleimPPL gleimPPLch2
+If the pitot tube and outside static vents become clogged, which instruments would be affected?	Airspeed indicator, altitmeter and vertical speed indicator&nbsp;	gleimPPL gleimPPLch2
+Which instruments would become inoperative if the outside static vents become clogged?	airspeed indicator, altimetere and vertical speed indicator	gleimPPL gleimPPLch2
 What speed indicator is not printed on the ASI? Why not?	Maneuvering speed (Va). It depends on the loading of the aircraft. The lighter the aircraft, the lower the VA because the control surfaces and wings are subjected to greater stress if maximum control surface inputs are made. The heavier the aircraft, the less effective the control surfaces and wings are at changing the direction of the aircraft due to increased mass.&nbsp;	gleimPPL gleimPPLch2
 When should a pilot state their position on the airport when calling the tower for takeoff?	When departing from a runway intersection	AIM
 What is the most effective way of scanning the eyes during night flight?	Scan slowly to permit off center viewing	PHAK
 No person may takeoff or land an aircraft under basic VFR at an airport that lies within Class D airspace unless the ground visibility and ceiling is at least	3 miles with 1,000ft ceiling	91
-Most of the heat caused by internal combustion is eliminated via&nbsp;	the exhaust	PHAK
 How should the ailerons be positioned when landing in a crosswind?	up aileron into the wind	AFH
 What direction does a wind tetrahedron point?	A wind tetrahedron points into the wind or where the wind is coming from.&nbsp;	AIM
 What direction does a wind sock point?	A wind sock points toward where the wind is going or where it is blowing toward.&nbsp;	AIM
 Explain the difference between a wind tetrahedron and a wind sock.	A wind tetrahedron points into the wind or toward where the wind is coming from. A wind sock points with the wind or toward where the wind is blowing toward.&nbsp;	AIM
-An aircrafts aerodynamic balance and controllability are affected when there is a change in the aircrafts:	center of pressure	PHAK
-An aircrafts center of pressure changes with a change in&nbsp;	angle of attack	PHAK
-What kind of atmospheric phenomena could result from winds 40kt or greater blowing across a mountain ridge where the air is stable?	mountain wave turbulence	Weather
 The four fundamentals of flight involved in maneuvering an aircraft are:	straight and level flight, turns, climbs, and descents	AFH
-Under what circumstances are microbursts most likely to occur?	Within the heavy rain portion of a thunderstorm, but can also be seen in much weaker, innocent looking buildups with little or no precip. Exercise caution when flying under or around CB clouds.&nbsp;	Weather
 What does FSDO stand for?	Flight Standards District Office	
 What are the aeronautical requirements for a private pilot certificate?	40 hours TT<br>20 hours from authorized instructor<br>10 hours solo<br>- 5 hours solo<br>- 1 solo cross country of 150nm with full stop landings at 3 points, and 1 segment flight consisting of a straight line distance of more than 50nm.&nbsp;<br>- 3 takeoffs and landings to a full stop at a tower controlled airport (each involving a lap around the pattern)<br>3 hours cross country flight training<br>3 hours of night flight<br>- 1 cross country of over 100nm at night<br>- 10 takeoffs and landings to a full stop (each involving a lap around the pattern)<br>3 hours flight training in a single engine airplane controlling and maneuvering solely by reference to instruments.&nbsp;<br>- includes straight and level flight<br>- constant speed climbs and descents<br>- turns to a heading&nbsp;<br>- revovery from unusual flight attitudes<br>- radio communications<br>- use of navigation system, facilities and radar services (flight following).&nbsp;<br>3 hours of flight training with an authorized instructor in a single engine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months.&nbsp;<br>	gs
 Eligibility requirements for a private pilot certificate	17 years old<br>read, speak and write english<br>received necessary endorsements<br>pass the knowledge test<br>meet aeronautical experience requirements<br>holds a student pilot certificate&nbsp;	gs
-"<div style=""text-align: left;"">***Contains relevant Vspeeds for PA28-180 Cherokee (according to Piper POH)<br></div><div style=""text-align: left;"">{{c27::113}} - {{c1::VA}} - {{c2::Design maneuvering speed}}</div><div style=""text-align: left;"">{{c4::VS}} - {{c3::Stall speed, clean configuration}}</div><div style=""text-align: left;"">{{c5::VSO}} - {{c26::Stall speed, landing configuration}}</div><div style=""text-align: left;"">{{c6::VS1}} - {{c7::Stall speed, specific configuration}}</div><div style=""text-align: left;"">{{c9::VF}} - {{c8::Design flap speed}}</div><div style=""text-align: left;"">{{c10::VLE}} - {{c11::Max landing gear extended speed}}</div><div style=""text-align: left;"">{{c12::VFE}} - {{c13::Max flap extended speed}}</div><div style=""text-align: left;"">{{c14::VNO}} - {{c15::Max structural cruise speed}}</div><div style=""text-align: left;"">{{c27::152}}MPH -&nbsp;{{c17::VNE}} - {{c16::Never exceed speed}}</div><div style=""text-align: left;"">{{c18::VX}} - {{c19::Best angle of climb}}</div><div style=""text-align: left;"">{{c21::VY}} - {{c20::Best rate of climb}}</div><div style=""text-align: left;"">{{c22::VG}} - {{c23::Best glide speed}}</div><div style=""text-align: left;"">{{c25::VREF}} - {{c24::Calculated final approach speed}}</div>"		gs
+Standard traffic pattern altitude for single engine airplanes	1000ft above airport surface	ACS AIM
+What is the maximum engine speed/RPM of the prop in the PA28-180?	2700rpm	PA28_POH
+Gross weight of PA28-180	2400lbs	PA28_POH
+Through what structural component are the wings on the PA28-180 connected?	The wing spar box&nbsp;	PA28_POH
+Approach speed with flaps up in MPH for the PA28-180&nbsp;	85 MPH	PA28_POH
+Steep turns: Maintain the entry altitude {{c1::±100}} feet, airspeed {{c1::±10}} knots, bank {{c1::±5°}}, and roll out on the<br>entry heading {{c1::±10°}}.		ACS Maneuvers
+Rectangular course: enter a left or right pattern, {{c1::600 to 1,000}} feet above ground level (AGL) at an appropriate distance from the selected reference area, 45° to the downwind leg		
+S-turns: enter perpendicular to the selected reference line, {{c1::600 to 1,000}} feet AGL at an appropriate distance from the selected reference area		ACS Maneuvers
+Turns around a point: enter at an appropriate distance from the reference point, {{c1::600 to 1,000}}&nbsp;feet AGL at an appropriate distance from the selected reference area		ACS Maneuvers
+List the steps if an in flight electrical fire is suspected: <br>{{c3::All electrical devices and master off}}<br>{{c4::Cabin heat and air off}}<br>{{c2::If fire is out, master back on only if critical}}<br>{{c5::One essential electrical device at a time}}<br>{{c6::Disable electrical items if smoke returns}}<br>{{c1::Reset circuit breakers only if necessary}}		PA28_POH
+Engine fire in flight:&nbsp;<br>{{c6::mixture closed}}<br>{{c5::throttle closed}}<br>{{c4::fuel pump off}}<br>{{c7::fuel tank off}}<br>{{c3::master off}}<br>{{c2::cabin heat and air off}}<br>{{c1::increase airspeed to extinguish and land asap}}		PA28_POH
+describe an accelerated stall and how to recover from one	accelerated stalls occur when the critical angle of attack is exceeded during rapid and/or aggressive maneuvers where the angle of attack changes rapidly.&nbsp;	PHAK
+...results in more longitudinal stability, less fuel efficiency (more drag), higher stall speed (higher AOA), good stall recovery characteristics&nbsp;	A forward CG... (4 things)	PHAK
+How long is an aircraft registration valid for?	7 years as of 2022 (the requirement used to be 3 years)	
+FAR 61.103	FAR which outlines eligibility requirements for a private pilot	FAR GoldSealPPL
+FAR 61.109	FAR which outlines aeronautical requirements for a private pilot certificate&nbsp;	FAR GoldSealPPL
+Are Airworthiness Directives legally enforceable? Yes/No; provide FAR	Yes. 39.3	39 FAR
+"<div>
+<div>
+<div>
+<div>Are airworthiness directives part of the Code of Federal Regulations? Yes/no; provide FAR.&nbsp;</div>
+</div>
+</div></div>"	"<div>
+<div>
+<div>
+<div>39.13 Yes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual
+edition. FAA publishes airworthiness directives in full in the FEDERAL REGISTER as amendments&nbsp;</div>
+</div>
+</div></div>"	39 FAR
+Can an aircraft operator address an unsafe condition in a way other than that set out in the airworthiness directive? Explain; provide FAR	"<div>
+<div>
+<div>
+<div>Yes, anyone may propose to FAA an alternative method of compliance (AMOC) or a change in the compliance time, if the
+proposal provides an acceptable level of safety. 39.19</div>
+</div>
+</div></div>"	39 FAR
+Best angle speed (PA28-161/180)	V<sub>x</sub> - 74mph	pa28 PA28_POH
+Maneuvering speed at max gross (PA28-161/180)	Va - 112mph (max gross)	pa28 PA28_POH
+Normal Takeoff ACS standard	Vy, +10/-5kts, heading aligned	ACS(whitecard)
+Normal Landing ACS standard (speed, speed tolerance, altitude, altitude tolerance, heading)	POH, +10/-5kts, TD point, +400' tolerance, aligned	ACS(whitecard)
+Engine loss in flight procedure:	Airspeed - Best glide, 80mph PA28-180<br>swap tanks, carb heat on, mixture rich, fuel pump on, throttle open, check mags<br>Best Field - Select a best landing site<br>Declare - to ATC or on guard or both<br>Execute - emergency landing and evacuation	
+Electrical fire in flight procedure	All electrical devices + master - OFF (mags remain on)<br>Cabin heat and air - OFF<br>If fire out, master on only if critical&nbsp;<br>Then one essential electrical device at a time&nbsp;<br>Reset circuit breakers only if critical&nbsp;	
+Engine fire in flight&nbsp;	Throttle closed<br>Micture cutoff<br>Fuel selector off<br>Master off<br>Cabin heat and air off<br>Increase airspeed to extinguish fire, dive for yellow arc&nbsp;&nbsp;<br>	
+Power loss immediately after takeoff, no restart	Pitch for aispeed, best glide 80mph<br>Fuel selector, fuel pump off<br>Mixture cutoff<br>Flaps down<br>Master, mags off&nbsp;<br>Unlatch door before landing&nbsp;	
+Power loss in flight, sufficient altitude&nbsp;	AIRSPEED - Pitch for 80mph, best glide&nbsp;<br>BEST FIELD - Note wind direction, pick landing site<br>CHECKLIST:&nbsp;<br><ol><li>Carb heat, on</li><li>Fuel tanks switch</li><li>Mixture full rich</li><li>Fuel pump on</li><li>Fuel primer, locked in</li><li>Magnetos check all&nbsp;</li><li>Master on&nbsp;</li></ol><div>DECLARE emergency on ATC freq, UNICOM, and/or guard 121.5&nbsp;</div><div>EXECUTE emergency landing if no restart&nbsp;</div><br>	
+Power loss in flight, insufficient altitude (forced landing)&nbsp;	AIRSPEED - maintain best glide 80mph<br>SQUAWK 7700<br>Declare emergency&nbsp;<br>ELT on<br>Mixture cutoff&nbsp;<br>Fuel selector off&nbsp;<br>seatbelts fastened&nbsp;<br>flaps as needed<br>master / mags off<br>unlatch door&nbsp;	
+Minimum safe altitude <i>anywhere</i>. Provide FAR. 	91.119 (a) An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.	FAR
+Minimum safe altitude over a congested area. Provide FAR. 	(b) Over any congested area of a city, town, or settlement, or over any open air assembly of persons, an altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.	FAR
+What is 91.205?	FAR containing information about required VFR Day/Night equipment&nbsp;	91 FAR
+Minimum VFR equipment, day and night	Compass<br>Altimiter<br>Airspeed Indicator<br>Oil temp<br>Oil pressure<br>Engine/water temperature<br>Manifold pressure<br>Tachometer<br>Fuel gauge<br>Landing gear position indicator<br>Anti collision light<br>Seatbelts/Shoulder harnesses&nbsp;<br>ELT<br>Survival equipment (if for hire)<br><br>Night:<br>Anticollision light<br>Position lights<br>Landing light (if for hire)<br>Source of electricity<br>Fuses (spare set, or 3 of each type)	FAR
+The CG is located aft of the rear CG limit&nbsp;	Poor stall recovery. Airplane becomes less stable at all airspeeds	gleimPPLch1
+The torque effect (left turning tendancy)	what turning tendancy is greatest at low airspeed, high angle of attack and high power setting?	gleimPPLch1
+P factor (asymmetric propeller loading)	causes the airplane to yaw to the left when at high angles of attack becuse of the descending of the right side of the propeller has a higher angle of attack and provides more thrust.	gleimPPLch1
+Load factor	is the additional weight carried by the wings due to the airplanes weight plus centrifugal force&nbsp;	gleimPPLch1
+What is required before entering Class D airspace	establish two way radio communications&nbsp;	gleimOral
+What are the typical dimensions of Class D airspace	from the surface to 2,500ft AGL, extending outward to 4-5sm, depending on local requirements&nbsp;	gleimOral
+Normal takeoff ACS standard&nbsp;	Vy, +10/-5kts, aligned heading	ACS Maneuvers
+Normal landing ACS standard	POH speed, +10/-5kts, TD point +400'	ACS Maneuvers
+What should you do to avoid a spin?	First, avoid a stall. Avoid crossed controls at low airspeed, don't steer with ailerons during a stall or approach to stall, and keep the airplane coordinated. Use rudder/yaw to control the airplane during a stall recovery.&nbsp;	gleimOral
+Soft field takeoff ACS standard	Vx or Vy, +10/-5kts&nbsp;	ACS Maneuvers
+Soft field landing ACS standard	POH speed, +10/-5kts	ACS Maneuvers
+Short field takeoff ACS standard	Vx -&gt; Vy, both airspeeds +10/-5kts	ACS Maneuvers
+Short field landing ACS standard	POH speed, +10/-5kts, TD point +200ft	ACS Maneuvers
+Go around ACS standard	Vx or Vy, +10/-5kts	ACS Maneuvers
+Pattern altitude ACS standard	+/-10kts, pattern altitude, +/-100ft	ACS Maneuvers
+Rectangular course ACS standard&nbsp;	Speed selected, +/-10kts, 600-1000ft AGL, +/-100ft	ACS Maneuvers
+S-Turns ACS standard	Speed selected, +/-10kts, 600-1000ft AGL, +/-100ft	ACS Maneuvers
+Turns around a point ACS standard	Speed selected, +/-10kts, 600-1000ft AGL, +/-100ft	ACS Maneuvers
+Power off stall ACS standard	Approach speed, 1500ft AGL, +/-10deg	ACS Maneuvers
+Power on stall ACS standard	Vr speed, 1500ft AGL, +/-10deg	ACS Maneuvers
+Slow flight ACS standard	speed 0-10 horn, +10/-0kts, 1500ft AGL, +/-100ft, +/-10deg	ACS Maneuvers
+Steep turns ACS standard	&lt; Va, +/-10kts, bank +/-5deg bank, +/-100ft, +/-10deg	ACS Maneuvers
+Straight and level ACS standard	selected speed, +/-10kts, +/-200ft, +/-20deg	ACS Maneuvers
+Turn to a heading ACS standard	selected speed, +/-10kts, +/-200ft, +/-10deg	ACS Maneuvers
+Constant airspeed climb ACS standard	selected speed, +/-10kts, +/-200ft, +/-20deg	ACS Maneuvers
+Constant airspeed descent ACS standard	selected speed, +/-10kts, +/-200ft, +/-20deg	ACS Maneuvers
+Unusual attitude recovery ACS standard	Stabalized speed, altitude, heading	ACS Maneuvers
+Emergency approach ACS standard	Vg, +/-10kts	ACS Maneuvers
+Emergency descent ACS standard	30-45 deg bank, +0/-10kts, POH guidance&nbsp;	ACS Maneuvers
+Passenger preflight briefing&nbsp;	SAFETY 91.519<br><b>- Seats and seatbelts</b><br>Required to have seatbelt fastened during movement on the ground, takeoff and landing. Show movement of the seat sliding and tilting. Use hand hold to adjust.&nbsp;<br><b>- Air vents (heat and cold)<br>- Fire Extinguisher</b><br>Location, removal and operation&nbsp;<br><b>- Equipment&nbsp;</b><br>Doors, do not touch flight controls, be mindful of feet&nbsp;<br><b>- Traffic and Talking</b><br>If you see something, say something. Point out other aircraft. Don't talk during radio transmissions, both from myself and when you hear ATC.&nbsp;<br><b>- Your Questions&nbsp;</b><br>Answer any questions from your passenger&nbsp;	Acronym
+Total time required for PPL	40 hours TT	61
+Aeronautical experience requirements for PPL FAR	61.109	61
+How many hours of flight training required from an authorized instructor? Provide FAR	20 hours <br>61.109	61
+How much solo time is required for a PPL? Any specific requirements within that solo time? provide FAR	10 hours solo time<br>   - 5 hours solo cross country <br>   - 1 solo cross-country flight of 150 (or more) <br>nautical miles total distance, with full-stop <br>landings at 3 points; AND one segment of <br>the flight consisting of a straight-line <br>distance of more than 50 nautical miles <br>between the takeoff and landing locations.<br>   - 3 takeoffs and landings to a full stop at an airport with an operating control tower<br>61.109	61
+How much cross country flight training is required for a PPL certificate? Provide FAR 	3 hours of cross country flight training <br>61.109	61
+How much night flight time is required for a PPL certificate? Provide FAR	3 hours of night flying <br>   - 1 cross country over 100nm<br>   - 10 takeoffs and landings to a full stop (each involving a lap in the pattern)<br>61.109 	61
+How much simulated instrument time is required for a PPL certificate? Provide FAR 	3 hours simulated instrument time <br>61.109 	61
+How much flight training with an authorized instructor is required in the proceeding ___ months before a Checkride? Provide FAR 	3 hours of flight training with an authorized <br>instructor in a single-engine airplane in <br>preparation for the practical test, which <br>must have been performed within the <br>preceding 2 calendar months.<br>61.109	61
+Eligibility requirements for a PPL certificate? Provide FAR 	- At least 17 years old<br>- Speak read and write English language<br>- Student pilot certificate <br>- Met all aeronautical experience requirements <br>- Met all ground training requirements <br>- Passed FAA knowledge test<br>- All necessary endorsements from instructor <br>61.103	61
+FAR which addresses endorsements 	61.31	61 FAR
+Recency requirements for PPL. Provide FAR	Cannot carry passengers unless 3 takeoffs and landings in the proceeding 90 days. For a night flight (1 hour after sunset to 1 hour before sunrise) carrying passengers, you must have done those landings at night to a full stop. 61.57	61 FAR
+Flight review requirement for PPL. Provide FAR 	A biennial flight review is required for every pilot certificate holder once every 24 months. It includes 1 hour of flight instruction and 1 hour of ground. 61.56	61 FAR
+In the case of power failure, how long is the integrated battery of the Garmin G5 good for? 	4 hours	avionics instruments
+Difference between normal and utility categories&nbsp;	"Utility category is specifically for ""limited acrobatic activity"". This includes commercial maneuvers, <i>possibly</i> spins. Whereas, normal category allows for a more normal use case of an aircraft, like more passengers/cargo.&nbsp;"	
+List the 4 left turning tendancies	Torque, Spiraling slipstream, Gyroscopic precession and P-Factor	PHAK
+Spiraling slipstream	___ is one of the left turning tendancies caused by the motion of the propeller wash as it moves around and to the rear of the fuselage, imposing a force on the left side of the rudder.&nbsp;	PHAK
+___ is a turning tendancy where the as a force is applied to a spinning object, the force is felt 90deg in the direction of rotation.	Gyroscopic precession&nbsp;	PHAK
+<div>States that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid’s potential energy.</div>	Bernoullis principal	PHAK
+What is the moment?	Is the product of the weight of an object multiplied by its arm	PHAK
+Minimum altitude <i>anywhere</i> (general rule). Provide FAR	91.119<br>(a) Anywhere. An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.	91 FAR
+Minimum altitude over congested areas. Provide FAR	91.119<br>(b) Over congested areas. Over any congested area of a city, town, or settlement, or over any open air assembly of persons, an altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.	91 FAR
+Minimum altitude over an area which is not congested. What about over water or sparsely populated areas? Provide FAR	91.119<br>(c) Over other than congested areas. An altitude of 500 feet above the surface, except over open water or sparsely populated areas. In those cases, the aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.	91 FAR
+Explain maneuvering speed in detail 	Maneuvering speed, or Va, is the maximum airspeed at which, at a given weight, one full deflection of one of the primary flight controls will not cause permanent structural damage. As weight goes up, so does Va. This is because a heavier airplane must have a higher AOA to produce sufficient lift. At higher weights, the wing is closer to the critical AOA, meaning the wing will stall before structural damage occurs. At lighter weights, the AOA is lower, meaning there is far more available lift until reaching the wings critical AOA. 	
+Name the main types of icing an aircraft may encounter <br>in-flight. 	Structural, induction system, and instrument icing. AC 00-6	
+Eligibility requirements for a PPL certificate. Provide FAR.	"<div>61.103</div><div>a. Be at least 17 years of age.</div>
+<div>b. Be able to read, speak, write, and understand the English</div>
+<div>language.</div>
+<div>c. Hold at least a current Third Class medical certificate.</div>
+<div>d. Received the required ground and flight training endorsements.</div>
+<div>e. Meet the applicable aeronautical experience requirements.</div>
+<div>f. Passed the required knowledge and practical tests.</div>"	FAR hayesPPL
+What privileges and limitations apply to a private pilot? Provide FARs if able.&nbsp;	"61.113<br>May act as PIC of an aircraft carrying passengers.&nbsp;<br>May not fly for compensation or hire.<br>a. May act as PIC of an aircraft in connection with a business so long as the flight is only incidental to that business.&nbsp;<br>b. May not pay less than pro-rata (proportional) share of operating expenses of a flight so long as it's only fuel, oil, rental fees or airport expenditure.&nbsp;<br>c. May act as PIC of a charitable, nonprofit, or community event<div>flight described in 14 CFR §91.146, if the sponsor and pilot</div>
+<div>comply with the requirements of that regulation.</div><div>d. May be reimbursed for aircraft operating expenses that are</div>
+<div>directly related to search and location operations, provided the</div>
+<div>expenses involve only fuel, oil, airport expenditures, or rental</div>
+<div>fees, and the operation is sanctioned and under the direction</div>
+<div>and control of local, state, or Federal agencies or organizations</div>
+<div>that conduct search and location operations.</div><div>e. May demonstrate an aircraft in flight to a prospective buyer</div>
+<div>if the private pilot is an aircraft salesman and has at least 200</div>
+<div>hours of logged flight time.</div><div>f. May act as PIC of an aircraft towing a glider or unpowered</div>
+<div>ultralight vehicle, provided they meet the requirements of 14</div>
+<div>CFR §61.69.</div><div>g. May act as PIC for the purpose of conducting a production</div>
+<div>flight test in a light-sport aircraft intended for certification in</div>
+<div>the light-sport category, provided they meet the requirements of</div>
+<div>14 CFR §21.190</div>"	FAR hayesPPL
+"<div>Explain the statement “may not pay less than pro-rata</div>
+<div>share of the operating expenses of a flight.” Provide FAR.</div>"	"61.113<br><div>Pro-rata means “proportional.” The pilot may not pay less than his</div>
+<div>or her proportional share of the flight’s operating expenses with the</div>
+<div>passengers, provided the expenses involve only fuel, oil, airport</div>
+<div>expenditures or rental fees.</div>"	FAR hayesPPL
+"<div>With respect to certification, privileges, and limitations</div>
+<div>of airmen, define the terms: “Category,” “Class,” and</div>
+<div>“Type.”&nbsp;Provide FAR.</div>"	"<div>14 CFR Part 1</div><div><div><i>Category</i>—a broad classification of aircraft; i.e., airplane, rotor-</div>
+<div>craft, glider, etc.</div>
+<div><i>Class</i>—a classification of aircraft within a category having similar</div>
+<div>operating characteristics; i.e., single-engine land, multi-engine</div>
+<div>land; etc.</div>
+<div><i>Type</i>—a specific make and basic model of aircraft including modi-</div>
+<div>fications that do not change its handling or flight characteristics;</div>
+<div>i.e., MD11, B737, C152, etc.</div></div>"	FAR hayesPPL
+What are the requirements to stay current as a private pilot? Provide FAR.	61.56-57<br>Have taken a flight review within the last 24 months OR earned a new certificate in that time.&nbsp;<br>To carry passengers during the day, pilot must have completed 3 takeoffs and landings in the same category, class and type (if applicable). (If tailwheel, must be done to a full stop)<br>To carry passengers at night, pilot must have completed 3 takeoffs and landing to a full stop at night in the same category, class and type (if applicable).<br>Can be completed in an FTD (so long as it is an approved FTD in accordance with an approved course conducted by a certified training center)	FAR hayesPPL
+How long does a pilot have to notify the FAA of a change of address? Provide FAR.	61.60<br>30 days	FAR hayesPPL
+What flight time can be logged as SIC time? Provide FAR.&nbsp;	"<div>61.51&nbsp;</div><div>a. Is qualified in accordance with the SIC requirements of 14 CFR</div>
+<div>§61.55, and occupies a crewmember station in an aircraft that</div>
+<div>requires more than one pilot by the aircraft’s type certificate; or</div>
+<div>b. Holds the appropriate category, class, and instrument rating (if</div>
+<div>an instrument rating is required for the flight) for the aircraft</div>
+<div>being flown, and more than one pilot is required under the type</div>
+<div>certification of the aircraft or the regulations under which the</div>
+<div>flight is being conducted.</div>"	FAR hayesPPL
+Where can you find information about medical conditions which may exclude you from earning medical certificate? Provide FAR.&nbsp;	Part 67 covers medical conditions and Part 61 covers requirements to obtain a pilot certificate/medical.&nbsp;	FAR hayesPPL
